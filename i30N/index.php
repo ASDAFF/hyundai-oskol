@@ -3,6 +3,10 @@ require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("i30N");
 ?>
 
+    <link type="text/css" href="https://www.hyundai.ru/media/css/cars/cars_common.css" rel="stylesheet" />
+    <link type="text/css" href="https://www.hyundai.ru/media/css/cars/pip_flat_spritespin.css" rel="stylesheet" />
+    <link type="text/css" href="https://www.hyundai.ru/media/css/cars/pip_i30n.css" rel="stylesheet" />
+
 
     <!--
     Контент страницы начнется тут
@@ -16,7 +20,7 @@ $APPLICATION->SetTitle("i30N");
                 </div>
                 <div class="topVisualArea">
                     <div class="topVisual">
-                        <div class="visual"><img src="/media/images/flat/i30n/elements/i30n-1.jpg" alt="i30N" class="responsive-image">
+                        <div class="visual"><img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-1.jpg" alt="i30N" class="responsive-image">
                         </div>
                         <div class="middle">
                             <div class="titWrap ">
@@ -32,14 +36,14 @@ $APPLICATION->SetTitle("i30N");
                 <section class="section_hightlights">
                     <div class="section_wrap">
                         <figure class="img_wrap">
-                            <img src="/media/images/flat/i30n/elements/i30n-2-full.jpg" class="responsive-image" alt="">
+                            <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-2-full.jpg" class="responsive-image" alt="">
                         </figure>
                         <div class="text_point" data-element-type="trigger">
                             <div data-element-type="target" data-duration="0.7" data-delay="0" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin':0}" data-style="opacity:0;margin-top:70px;" style="opacity:0;margin-top:70px;" class="">Живи</div>
                             <div data-element-type="target" data-duration="0.7" data-delay="0.1" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin':0}" data-style="opacity:0;margin-top:70px;" style="opacity:0;margin-top:70px;" class="">чувствами<span class="n_dot red"></span></div>
                         </div>
                         <figure class="img_wrap">
-                            <img src="/media/images/flat/i30n/elements/i30n-3-full.jpg" class="responsive-image" alt="">
+                            <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-3-full.jpg" class="responsive-image" alt="">
                         </figure>
                     </div>
                 </section>
@@ -54,13 +58,13 @@ $APPLICATION->SetTitle("i30N");
                                 <span class="red">Пульс</span> вместо оборотов<br>
                             </div>
                             <figure class="img_wrap img01">
-                                <img src="/media/images/flat/i30n/elements/i30n-6.jpg" alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;" class="">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-6.jpg" alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;" class="">
                             </figure>
                             <figure class="img_wrap img02">
-                                <img src="/media/images/flat/i30n/elements/i30n-5.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-5.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
                             </figure>
                             <figure class="img_wrap img03">
-                                <img src="/media/images/flat/i30n/elements/i30n-4.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-4.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
                             </figure>
                             <div class="txt_wrap txt02">
                                 <div data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;" class="">
@@ -68,16 +72,16 @@ $APPLICATION->SetTitle("i30N");
                                 </div>
                             </div>
                             <figure class="img_wrap img04">
-                                <img src="/media/images/flat/i30n/elements/i30n-8.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-8.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
                             </figure>
                             <figure class="img_wrap img05">
-                                <img src="/media/images/flat/i30n/elements/i30n-9.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-9.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
                             </figure>
                             <figure class="img_wrap img06">
-                                <img src="/media/images/flat/i30n/elements/i30n-7-red.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="1.3" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-7-red.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="1.3" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
                             </figure>
                             <figure class="img_wrap img07">
-                                <img src="/media/images/flat/i30n/elements/i30n-10.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-10.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
                             </figure>
                         </div>
                     </div>
@@ -93,7 +97,7 @@ $APPLICATION->SetTitle("i30N");
                                 вместо оборотов<span class="n_dot red"></span>
                             </h2>
                             <figure class="img_wrap img01">
-                                <img src="/media/images/flat/i30n/elements/i30n-11-full.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.2" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-11-full.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.2" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
                             </figure>
                         </div>
                     </div>
@@ -105,7 +109,7 @@ $APPLICATION->SetTitle("i30N");
                     <div class="section_wrap">
                         <div class="type type02 " data-element-type="trigger">
                             <figure class="img_wrap img01">
-                                <img src="/media/images/flat/i30n/elements/i30n-12.jpg" class="responsive-image " alt="" data-media-pc="/media/images/flat/i30n/elements/i30n-12.jpg" data-element-type="target" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-12.jpg" class="responsive-image " alt="" data-media-pc="/media/images/flat/i30n/elements/i30n-12.jpg" data-element-type="target" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
                             </figure>
                             <div class="txt_wrap txt01">
                                 <div data-element-type="target" data-duration="0.9" data-delay="0.8" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;" class="">
@@ -125,7 +129,7 @@ $APPLICATION->SetTitle("i30N");
                     <div class="section_wrap">
                         <div class="type type03 " data-element-type="trigger">
                             <figure class="img_wrap img01">
-                                <img src="/media/images/flat/i30n/elements/i30n-13.jpg" class="responsive-image " alt="" data-element-type="target" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-13.jpg" class="responsive-image " alt="" data-element-type="target" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
                             </figure>
                             <div class="txt_wrap txt01">
                                 <div data-element-type="target" data-duration="0.9" data-delay="0.8" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;" class="">
@@ -136,10 +140,10 @@ $APPLICATION->SetTitle("i30N");
                                 </div>
                             </div>
                             <figure class="img_wrap img02">
-                                <img src="/media/images/flat/i30n/elements/i30n-14.jpg" alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;" class="">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-14.jpg" alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;" class="">
                             </figure>
                             <figure class="img_wrap img03">
-                                <img src="/media/images/flat/i30n/elements/i30n-15-red.jpg" alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;" class="">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-15-red.jpg" alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;" class="">
                             </figure>
                         </div>
                     </div>
@@ -151,10 +155,10 @@ $APPLICATION->SetTitle("i30N");
                     <div class="section_wrap">
                         <div class="type type04 " data-element-type="trigger">
                             <figure class="img_wrap img01">
-                                <img src="/media/images/flat/i30n/elements/i30n-16.jpg" alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;" class="">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-16.jpg" alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;" class="">
                             </figure>
                             <figure class="img_wrap img02">
-                                <img src="/media/images/flat/i30n/elements/i30n-17.jpg" class="responsive-image " alt="" data-element-type="target" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-17.jpg" class="responsive-image " alt="" data-element-type="target" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
                             </figure>
                             <div class="txt_wrap txt01">
                                 <div data-element-type="target" data-duration="0.9" data-delay="0.8" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-bottom':'0'}" data-style="opacity:0; margin-bottom: -100px;" style="opacity:0; margin-bottom: -100px;" class="">
@@ -183,7 +187,7 @@ $APPLICATION->SetTitle("i30N");
                                 </div> -->
                             </div>
                             <figure class="img_wrap img02">
-                                <img src="/media/images/flat/i30n/elements/i30n-18.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
+                                <img src="https://www.hyundai.ru/media/images/flat/i30n/elements/i30n-18.jpg" class="responsive-image " alt="" data-element-type="animation" data-duration="0.9" data-delay="0.5" data-easing="easeOutQuad" data-engaged-animation="{'opacity':1,'margin-top:':'0'}" data-style="opacity:0; margin-top: 100px;" style="opacity:0; margin-top: 100px;">
                             </figure>
                         </div>
                     </div>
@@ -199,49 +203,49 @@ $APPLICATION->SetTitle("i30N");
                         <div class="swiper-container nSlider-swiper-container">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider1.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider1.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider2.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider2.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider3.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider3.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider4.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider4.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider5.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider5.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider6.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider6.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider7.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider7.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider8.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider8.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider9.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider9.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider10.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider10.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider11.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider11.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider12.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider12.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider13.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider13.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider14.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider14.jpg" alt="" class="slide-img">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="/media/images/flat/i30n/gallery_pics/i30n-slider15.jpg" alt="" class="slide-img">
+                                    <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider15.jpg" alt="" class="slide-img">
                                 </div>
                             </div>
                             <div class="swiper-pagi-container">
@@ -262,77 +266,77 @@ $APPLICATION->SetTitle("i30N");
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div preview-div--active">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb1.jpg" alt="" class="preview-img" data-img="0">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb1.jpg" alt="" class="preview-img" data-img="0">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb2.jpg" alt="" class="preview-img" data-img="1">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb2.jpg" alt="" class="preview-img" data-img="1">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb3.jpg" alt="" class="preview-img" data-img="2">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb3.jpg" alt="" class="preview-img" data-img="2">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb4.jpg" alt="" class="preview-img" data-img="3">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb4.jpg" alt="" class="preview-img" data-img="3">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb5.jpg" alt="" class="preview-img" data-img="4">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb5.jpg" alt="" class="preview-img" data-img="4">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb6.jpg" alt="" class="preview-img" data-img="5">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb6.jpg" alt="" class="preview-img" data-img="5">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb7.jpg" alt="" class="preview-img" data-img="6">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb7.jpg" alt="" class="preview-img" data-img="6">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb8.jpg" alt="" class="preview-img" data-img="7">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb8.jpg" alt="" class="preview-img" data-img="7">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb9.jpg" alt="" class="preview-img" data-img="8">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb9.jpg" alt="" class="preview-img" data-img="8">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb10.jpg" alt="" class="preview-img" data-img="9">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb10.jpg" alt="" class="preview-img" data-img="9">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb11.jpg" alt="" class="preview-img" data-img="10">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb11.jpg" alt="" class="preview-img" data-img="10">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb12.jpg" alt="" class="preview-img" data-img="11">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb12.jpg" alt="" class="preview-img" data-img="11">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb13.jpg" alt="" class="preview-img" data-img="12">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb13.jpg" alt="" class="preview-img" data-img="12">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb14.jpg" alt="" class="preview-img" data-img="13">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb14.jpg" alt="" class="preview-img" data-img="13">
                                     </div>
                                 </div>
                                 <div class="swiper-slide preview-slide">
                                     <div class="preview-div">
-                                        <img src="/media/images/flat/i30n/gallery_pics/i30n-slider-thumb15.jpg" alt="" class="preview-img" data-img="14">
+                                        <img src="https://www.hyundai.ru/media/images/flat/i30n/gallery_pics/i30n-slider-thumb15.jpg" alt="" class="preview-img" data-img="14">
                                     </div>
                                 </div>
                             </div>
@@ -351,6 +355,11 @@ $APPLICATION->SetTitle("i30N");
     Контент страницы закончится тут
     -->
 
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="https://www.hyundai.ru/media/js/libs/spritespin.js"></script>
+    <script type="text/javascript" src="https://www.hyundai.ru/media/js/libs/jquery.lazyload.min.js"></script>
+    <script type="text/javascript" src="https://www.hyundai.ru/media/js/cars/sc_gt_default.js"></script>
+    <script type="text/javascript" src="https://www.hyundai.ru/media/js/cars/pip_i30n.js"></script>
 
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

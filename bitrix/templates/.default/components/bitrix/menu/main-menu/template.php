@@ -24,6 +24,9 @@
 					<li class="main-nav__item main-nav__item--has-submenu">
 						<span class="main-nav__link" data-role="showroom-submenu-link">Модельный ряд</span>
 					</li>
+					<li class="main-nav__item main-nav__item--has-submenu">
+						<span class="main-nav__link" data-role="n-submenu-link">N</span>
+					</li>
 
 					<? if(SITE_ID == "s1" OR SITE_ID == "s2" OR SITE_ID == "s5"): ?>
 					<li class="main-nav__item">
@@ -94,10 +97,23 @@
 				</div>
 			</div>
 
+			<div class="submenu" data-role="n-submenu">
+				<div class="submenu-content">
+					<ul class="showroom">
+						<li class="showroom__cat" role="menuitem">
+							<div class="showroom__cat-title">N</div>
+							<div class="showroom__cat-items">
+								<a href="/i30N/" class="showroom__cat-item" title="i30N">
+									<span class="showroom__cat-item-name">i30N</span>
 
-
-
-
+									<img src="<?=SITE_TEMPLATE_PATH?>/media/car/I30.png" class="showroom__cat-item-image" alt="i30N"/>
+								</a>
+							</div>
+						</li>
+					</ul>
+					<button class="submenu-close"><svg xmlns="http://www.w3.org/2000/svg" class="ic-svg"><use xlink:href="#ic-close-sm"></use></svg></button>
+				</div>
+			</div>
 
 		</div>
 	</div>

@@ -374,7 +374,7 @@ var Spreader = function() {
             }),
             i = $("#header-primary"),
             n = "_active",
-            s = ["navbar-support", "showroom-submenu", "service-submenu"];
+            s = ["navbar-support", "showroom-submenu", 'n-submenu'];
         i.find('[data-role="navbar-support"]').on("click", function(e) {
             e.stopPropagation(), t("navbar-support")
         }).find("> div").on("click", function(t) {
@@ -385,8 +385,8 @@ var Spreader = function() {
             e.stopPropagation(), t("showroom-submenu")
         }).find("> div").on("click", function(t) {
             t.stopPropagation()
-        }), i.find('[data-role="service-submenu-link"]').on("click", function(e) {
-            e.stopPropagation(), t("service-submenu")
+        }), i.find('[data-role="n-submenu-link"]').on("click", function(e) {
+            e.stopPropagation(), t("n-submenu")
         }).find("> div").on("click", function(t) {
             t.stopPropagation()
         }), window.addEventListener("scroll", function() {
