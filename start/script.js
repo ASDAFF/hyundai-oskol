@@ -150,7 +150,7 @@ $(document).ready(function() {
 
 			var percent = calc.getProgramPercent(DP_check);
 
-		    // Стоимость
+			// Стоимость
 			var C = $('select[name=type]').val();
 
 			// Срок
@@ -161,11 +161,11 @@ $(document).ready(function() {
 			RV = C * 0.45;
 
 			//Добавляем страховку жизни к общей стоимости кредита
-		    var years_count = 3;
-		    //var insurance_percent = 3.5;
-		    var insurance_percent = 0;
-		    // (Цена - П.В.) * страховой тариф в год * кол-во лет
-		    var lifeinsurance = (C - DP) * insurance_percent/100 * years_count;
+			var years_count = 3;
+			//var insurance_percent = 3.5;
+			var insurance_percent = 0;
+			// (Цена - П.В.) * страховой тариф в год * кол-во лет
+			var lifeinsurance = (C - DP) * insurance_percent/100 * years_count;
 
 
 
@@ -179,7 +179,7 @@ $(document).ready(function() {
 			SMax = C;
 
 			S += lifeinsurance;
-		    SF += lifeinsurance;
+			SF += lifeinsurance;
 
 			P = percent / 12;
 
@@ -192,13 +192,13 @@ $(document).ready(function() {
 			if( Math.abs(payment - 6000) < 100)
 				payment = 6000;
 
-		    // В числе прочего нам надо высчитать минимум, максимум, и запрограммировать длину обоих полос.
+			// В числе прочего нам надо высчитать минимум, максимум, и запрограммировать длину обоих полос.
 
-		    // Минимум считаем как старт с максимальным DP
+			// Минимум считаем как старт с максимальным DP
 
-		    payment_min = Math.round(  SMin * (P + ( P / ( Math.pow(1 + P, N) - 1 ) ) ) +  RV * P );
+			payment_min = Math.round(  SMin * (P + ( P / ( Math.pow(1 + P, N) - 1 ) ) ) +  RV * P );
 
-		    // Максимум - как полный кредит при нуле
+			// Максимум - как полный кредит при нуле
 
 			payment_max = Math.round(  SMax * (P + ( P / ( Math.pow(1 + P, N) - 1 ) ) ));
 
@@ -221,7 +221,7 @@ $(document).ready(function() {
 			diff_start = Math.round((diff_start * 0.9)) + 10;
 			diff_full = Math.round((diff_full * 0.9)) + 10;
 
-		    //diff = Math.round((payment / payment_full) * 100);
+			//diff = Math.round((payment / payment_full) * 100);
 
 			$('.tprice').html(payment_full.toLocaleString() + ' ');
 			$('.startprice').html(payment.toLocaleString() + ' ');
@@ -250,7 +250,7 @@ $(document).ready(function() {
 			handler();
 		}, 100);
 
-        solarisSpec();
+		solarisSpec();
 	}
 
 
@@ -284,78 +284,78 @@ $(document).ready(function() {
 	}
 
 	function initSelect() {
-		$('select').each(function(){
-		    var $this = $(this);
+		$('select.model__select').each(function(){
+			var $this = $(this);
 
-		    $this.addClass('select-hidden');
-		    $this.wrap('<div class="select"></div>');
-		    $this.after('<div class="select-styled"></div>');
+			$this.addClass('select-hidden');
+			$this.wrap('<div class="select"></div>');
+			$this.after('<div class="select-styled"></div>');
 
-		    var $styledSelect = $this.next('div.select-styled');
-		    $styledSelect.text($this.children('option').eq(0).text());
+			var $styledSelect = $this.next('div.select-styled');
+			$styledSelect.text($this.children('option').eq(0).text());
 
-		    var $list = $('<ul />', {
-		        'class': 'select-options'
-		    }).insertAfter($styledSelect);
-	    });
+			var $list = $('<ul />', {
+				'class': 'select-options'
+			}).insertAfter($styledSelect);
+		});
 
 	}
 
 	function updateSelect(sel) {
 		var $this = $(sel).parent()
-		, numberOfOptions = $(sel).find("option").length;
+			, numberOfOptions = $(sel).find("option").length;
 
 		var $styledSelect = $this.find('.select-styled');
-	    $styledSelect.text($this.find('option').eq(0).text());
+		$styledSelect.text($this.find('option').eq(0).text());
 
 		$list = $this.find(".select-options");
 		$list.html("").hide();
 		for (var i = 0; i < numberOfOptions; i++) {
-	        $('<li />', {
-	            text: $($this).find('option').eq(i).text(),
-	            rel: $($this).find('option').eq(i).val()
-	        }).appendTo($list);
-	    }
+			$('<li />', {
+				text: $($this).find('option').eq(i).text(),
+				rel: $($this).find('option').eq(i).val()
+			}).appendTo($list);
+		}
 
-	    var $listItems = $list.children('li');
+		var $listItems = $list.children('li');
 
-	  	$selectClass = $this;
-	    $selectClass.hover(
-	    	function(e) {
-		        e.stopPropagation();
-		        $styledSelect.next($listItems).stop(true, true);
-		        $styledSelect.toggleClass('active').next($listItems).show(300);
-		    }, function(e){
-	    	 	e.stopPropagation();
-		        $styledSelect.toggleClass('active').next($listItems).hide(300);
-		    }, function(e){
-		    }
-	    );
+		$selectClass = $this;
+		$selectClass.hover(
+			function(e) {
+				e.stopPropagation();
+				$styledSelect.next($listItems).stop(true, true);
+				$styledSelect.toggleClass('active').next($listItems).show(300);
+			}, function(e){
+				e.stopPropagation();
+				$styledSelect.toggleClass('active').next($listItems).hide(300);
+			}, function(e){
+			}
+		);
 
 
-	    $listItems.click(function(e) {
+		$listItems.click(function(e) {
 			console.log(1);
-	        e.stopPropagation();
-	        $styledSelect.text($(this).text()).next($listItems).hide(300);
-	        $this.find(".model__select").val($(this).attr('rel'));
+			e.stopPropagation();
+			$styledSelect.text($(this).text()).next($listItems).hide(300);
+			$this.find(".model__select").val($(this).attr('rel'));
 
-	        if ($this.find("[name=car]").length > 0) {
-		        var mod_id = $("[name=car]").val();
-		        var car_id = $("." + classes.slider.itemActive).attr("data-id");
-		        getComplectationList(car_id, mod_id);
-	        }
+			if ($this.find("[name=car]").length > 0) {
+				var mod_id = $("[name=car]").val();
+				var car_id = $("." + classes.slider.itemActive).attr("data-id");
+				getComplectationList(car_id, mod_id);
+			}
 
-	        calc.updateData();
-	    });
+			calc.updateData();
+		});
 
-     	if ($($this).find("[name=car]").length > 0) {
+		if ($($this).find("[name=car]").length > 0) {
 //	        var mod_id = $($this).find('option').eq(0).val();
-	        var mod_id = $("[name=car]").val();
-	        var car_id = $("." + classes.slider.itemActive).attr("data-id");
-	        getComplectationList(car_id, mod_id);
-        }
+			var mod_id = $("[name=car]").val();
+			var car_id = $("." + classes.slider.itemActive).attr("data-id");
+			getComplectationList(car_id, mod_id);
+		}
 
-        calc.updateData();
+		calc.updateData();
 	}
 
 
@@ -364,65 +364,65 @@ $(document).ready(function() {
 		//** The below code is the sample as a workaround **//
 		var fn1 = $.fn.roundSlider.prototype._setProperties;
 		$.fn.roundSlider.prototype._setProperties = function () {
-		  fn1.apply(this);
+			fn1.apply(this);
 
-		  var o = this.options, r = o.radius, d = r * 2, r1 = r - (o.width / 2), svgNS = "http://www.w3.org/2000/svg";
-		  this._circum = Math.PI * (r1 * 2);
+			var o = this.options, r = o.radius, d = r * 2, r1 = r - (o.width / 2), svgNS = "http://www.w3.org/2000/svg";
+			this._circum = Math.PI * (r1 * 2);
 
-		  /*background circle */
-		  var $circle2 = this._$circle2 = $(document.createElementNS(svgNS, 'circle'));
-		  $circle2.attr({
-		    "fill": "transparent", "class": "rs-transition circle2",
-		    "cx": r, "cy": r, "r": r1, "stroke-width": o.width, "stroke-dasharray": this._circum
-		  }).css({
-		    "transform-origin": "50% 50%", "transform": "rotate(" + (o.startAngle + 180) + "deg)"
-		  });
+			/*background circle */
+			var $circle2 = this._$circle2 = $(document.createElementNS(svgNS, 'circle'));
+			$circle2.attr({
+				"fill": "transparent", "class": "rs-transition circle2",
+				"cx": r, "cy": r, "r": r1, "stroke-width": o.width, "stroke-dasharray": this._circum
+			}).css({
+				"transform-origin": "50% 50%", "transform": "rotate(" + (o.startAngle + 180) + "deg)"
+			});
 
-		  /* filling circle */
-		  var $circle = this._$circle = $(document.createElementNS(svgNS, 'circle'));
-		  $circle.attr({
-		    "fill": "transparent", "class": "rs-transition circle1",
-		    "cx": r, "cy": r, "r": r1, "stroke-width": o.width, "stroke-dasharray": this._circum
-		    , 'stroke': 'url(#gradient)'
-		  }).css({
-		    "transform-origin": "50% 50%", "transform": "rotate(" + (o.startAngle + 180) + "deg)"
-		  });
+			/* filling circle */
+			var $circle = this._$circle = $(document.createElementNS(svgNS, 'circle'));
+			$circle.attr({
+				"fill": "transparent", "class": "rs-transition circle1",
+				"cx": r, "cy": r, "r": r1, "stroke-width": o.width, "stroke-dasharray": this._circum
+				, 'stroke': 'url(#gradient)'
+			}).css({
+				"transform-origin": "50% 50%", "transform": "rotate(" + (o.startAngle + 180) + "deg)"
+			});
 
-		  /* gradient */
-		  var $gradient = this._gradient = $(document.createElementNS(svgNS, 'linearGradient'));
-		  $gradient.attr({
-		    'id': 'gradient'
-		  });
+			/* gradient */
+			var $gradient = this._gradient = $(document.createElementNS(svgNS, 'linearGradient'));
+			$gradient.attr({
+				'id': 'gradient'
+			});
 
-		  var $stop1 =  $(document.createElementNS(svgNS, "stop"));
-		  var $stop2 =  $(document.createElementNS(svgNS, "stop"));
-		  $stop1.attr({
-		    'offset': '0%'
-		    , 'stop-color': '#00aed3'
-		  });
-		  $stop2.attr({
-		    'offset': '100%'
-		    , 'stop-color': '#00aed3'
-		  });
-		  $gradient.append($stop1).append($stop2);
-		  /* gradient */
+			var $stop1 =  $(document.createElementNS(svgNS, "stop"));
+			var $stop2 =  $(document.createElementNS(svgNS, "stop"));
+			$stop1.attr({
+				'offset': '0%'
+				, 'stop-color': '#00aed3'
+			});
+			$stop2.attr({
+				'offset': '100%'
+				, 'stop-color': '#00aed3'
+			});
+			$gradient.append($stop1).append($stop2);
+			/* gradient */
 
-		  var $svg = $(document.createElementNS(svgNS, "svg"));
-		  $svg.attr({ "height": d, "width": d }).append($gradient).append($circle2).append($circle);
-		  this.innerContainer.append($svg);
+			var $svg = $(document.createElementNS(svgNS, "svg"));
+			$svg.attr({ "height": d, "width": d }).append($gradient).append($circle2).append($circle);
+			this.innerContainer.append($svg);
 
 		}
 
 		var fn2 = $.fn.roundSlider.prototype._changeSliderValue;
 		$.fn.roundSlider.prototype._changeSliderValue = function () {
-		  fn2.apply(this, arguments);
+			fn2.apply(this, arguments);
 
-		  /* gradient rotate */
-		  var deg = (this.options.value - 54);
-		  this._gradient.attr({'gradientTransform': 'rotate('+deg+')'});
+			/* gradient rotate */
+			var deg = (this.options.value - 54);
+			this._gradient.attr({'gradientTransform': 'rotate('+deg+')'});
 
-		  var pct = ((80 - this.options.value) / 80) * this._circum ;
-		  this._$circle.css({ strokeDashoffset: pct });
+			var pct = ((80 - this.options.value) / 80) * this._circum ;
+			this._$circle.css({ strokeDashoffset: pct });
 
 		}
 		//** The above code is the sample level workaround **//
@@ -430,7 +430,7 @@ $(document).ready(function() {
 		window.updateWidgetData = function (e) {
 			$(".widget__val").text(this.options.value).css("transform", "rotate(" + (-4.5 * (this.options.value - 10)) + "deg)");
 			var g= document.querySelector('g'),
-			    transform= getComputedStyle(g).getPropertyValue('transform');
+				transform= getComputedStyle(g).getPropertyValue('transform');
 
 			g.setAttribute('transform', transform);
 		}
@@ -451,12 +451,12 @@ $(document).ready(function() {
 			$(".w-sum").hide();
 			console.log('sum = ' + calc.sum.total);
 			return '<div class="w-header__title">Первый взнос</div>'
-			   + '<div class="w-sum">' + (calc.sum.total/100 * e.value).toLocaleString() + ' ₽</div>'
-			   + '<div class="w-total-sum">Общая стоимость '
-			   + 	'<span class="w-total-sum__item">' + calc.sum.total.toLocaleString() + '</span>'
-			   + '</div>'
-			   + '<div class="w-line"></div>'
-			   + '<div class="w-months">36 месяцев</div>';
+				+ '<div class="w-sum">' + (calc.sum.total/100 * e.value).toLocaleString() + ' ₽</div>'
+				+ '<div class="w-total-sum">Общая стоимость '
+				+ 	'<span class="w-total-sum__item">' + calc.sum.total.toLocaleString() + '</span>'
+				+ '</div>'
+				+ '<div class="w-line"></div>'
+				+ '<div class="w-months">36 месяцев</div>';
 		}
 
 
@@ -483,8 +483,8 @@ $(document).ready(function() {
 					var numberTag = this._addSeperator(angle, "rs-custom");
 					var number = numberTag.children();
 					number.clone().css({
-					  "width": o.width + this._border(),
-					  "margin-top": this._border(true) / -2
+						"width": o.width + this._border(),
+						"margin-top": this._border(true) / -2
 					}).appendTo(numberTag);
 					number.removeClass().addClass("rs-number").html(i).rsRotate(-4.5 * (i - 10));
 				}
@@ -686,28 +686,28 @@ $(document).ready(function() {
 	function getModificationList(car_id)
 	{
 
-		$.post('http://www.hyundai.ru/requestnew/getpcpmod', 'carid=' + car_id, function(res){
+		$.post('https://www.hyundai.ru/requestnew/getpcpmod', 'carid=' + car_id, function(res){
 			console.log(res);
-	    	$('.model__select[name=car]').html(res);
-	    	updateSelect($('.model__select[name=car]'));
+			$('.model__select[name=car]').html(res);
+			updateSelect($('.model__select[name=car]'));
 		});
-/*
-		setTimeout(function(){
+		/*
+		 setTimeout(function(){
 
-		}, 200);
-*/
+		 }, 200);
+		 */
 	}
 
 	function getComplectationList(car_id, mod_id)
 	{
 
-		$.post('http://www.hyundai.ru/requestnew/getpcpcompl', 'carid=' + car_id + '&modid=' + mod_id, function(res){
+		$.post('https://www.hyundai.ru/requestnew/getpcpcompl', 'carid=' + car_id + '&modid=' + mod_id, function(res){
 			console.log(res);
-	    	$('.model__select[name=type]').html(res);
-	    	updateSelect($('.model__select[name=type]'));
-	    	calc.updateData();
-	    	calc.calculate();
-    	});
+			$('.model__select[name=type]').html(res);
+			updateSelect($('.model__select[name=type]'));
+			calc.updateData();
+			calc.calculate();
+		});
 	}
 
 	function initAnimation() {
@@ -718,17 +718,17 @@ $(document).ready(function() {
 	}
 
 	function scrollingPage() {
-	    $('.main__button-model[href^="#"], .slider__go-calc-button[href^="#"]').on('click', function (e) {
-	        e.preventDefault();
-	        $(document).off("scroll");
+		$('.main__button-model[href^="#"], .slider__go-calc-button[href^="#"]').on('click', function (e) {
+			e.preventDefault();
+			$(document).off("scroll");
 
-	        var target = this.hash;
-	        $target = $(target);
-	        $('html, body').stop().animate({
-	            'scrollTop': $target.offset().top
-	        }, 1000, 'swing', function () {
-	        });
-	    });
+			var target = this.hash;
+			$target = $(target);
+			$('html, body').stop().animate({
+				'scrollTop': $target.offset().top
+			}, 1000, 'swing', function () {
+			});
+		});
 	}
 
 	function handler() {
@@ -749,20 +749,20 @@ $(document).ready(function() {
 		}
 
 		function offsetPosition(element) {
-		    var offsetTop = 0;
-		    do {
-		        offsetTop  += element.offsetTop;
-		    } while (element = element.offsetParent);
-		    return offsetTop;
+			var offsetTop = 0;
+			do {
+				offsetTop  += element.offsetTop;
+			} while (element = element.offsetParent);
+			return offsetTop;
 		}
 
 	}
 
-    function solarisSpec() {
-        $(".solaris-spec__main").on("click", function() {
-            $(this).parent().toggleClass("solaris-spec_active");
-        });
-    }
+	function solarisSpec() {
+		$(".solaris-spec__main").on("click", function() {
+			$(this).parent().toggleClass("solaris-spec_active");
+		});
+	}
 
 	$('.faq__button .button-link').on('click', function(){
 		$('.hide').fadeIn();
@@ -780,9 +780,9 @@ $(document).ready(function() {
 
 /*
 
-Old Popup
+ Old Popup
 
-*/
+ */
 
 function getCarId()
 {
@@ -792,29 +792,29 @@ function getCarId()
 
 
 $(function(){
-	 startcreditModal = new Spreader('#start-credit', {
+	startcreditModal = new Spreader('#start-credit', {
 		onMount: function() {
 			this.$container.find('[data-form-id="start-credit-form"]')
 				.validit({
 					onSuccessSubmit: function(){
 						/* Наберем в форму все значения */
-					    var carid = getCarId();
-					    var mod = $('select[name=car] + .select-styled').html();
-					    var compl = $('select[name=type] + .select-styled').html();
-					    var pay = parseInt($('.startprice').html().replace(' ', '').replace(' ', '').replace('&nbsp;', '').replace('&nbsp;', ''));
+						var carid = getCarId();
+						var mod = $('select[name=car] + .select-styled').html();
+						var compl = $('select[name=type] + .select-styled').html();
+						var pay = parseInt($('.startprice').html().replace(' ', '').replace(' ', '').replace('&nbsp;', '').replace('&nbsp;', ''));
 						var term = 36;
 						var prepay = parseInt($('.widget__val').html());
 						var sum = parseInt($(".calc__total-price-digits" ).html().trim().replace(' ', '').replace(' ', '').replace('&nbsp;', '').replace('&nbsp;', ''));
 
 
-                        /*костыль для спец акции 2500 для Соляры*/
-                        if ($(".solaris-spec").hasClass("solaris-spec_active")) {
-                            pay = 2500;
-                            prepay = 50;
-                            term = 24
-                        }
+						/*костыль для спец акции 2500 для Соляры*/
+						if ($(".solaris-spec").hasClass("solaris-spec_active")) {
+							pay = 2500;
+							prepay = 50;
+							term = 24
+						}
 
-                        var prepay_rub = Math.round( sum * prepay / 100);
+						var prepay_rub = Math.round( sum * prepay / 100);
 
 
 						$('[data-form-id="start-credit-form"]').find("[name=carid]").val(carid);
@@ -868,7 +868,7 @@ $(function(){
 		startcreditModal.show();
 	});
 
-    $(".solaris-spec__email").click(function() {
+	$(".solaris-spec__email").click(function() {
 
 
 		startcreditModal.show();
