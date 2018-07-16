@@ -1,0 +1,76 @@
+Options -Indexes
+ErrorDocument 404 /404.php
+
+<IfModule mod_php5.c>
+  php_flag allow_call_time_pass_reference 1
+  php_flag session.use_trans_sid off
+
+  #php_value display_errors 1
+
+  #php_value mbstring.func_overload 2
+  #php_value mbstring.internal_encoding UTF-8
+</IfModule>
+
+
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.(.*) [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+</IfModule>
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP
+RewriteRule ^index\.php$ http://hyundai-ringauto.ru/ [R=301,L]
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP
+RewriteRule ^index\.html$ http://hyundai-ringauto.ru/ [R=301,L]
+
+Redirect 301 /car/Solaris /Solaris/
+Redirect 301 /car/new_Solaris5DR /Solaris-5dr/
+Redirect 301 /car/i30-3DR /i30-3dr/
+Redirect 301 /car/i30 /i30/
+Redirect 301 /car/i30Wagon /i30-Wagon/
+Redirect 301 /car/i40 /i40/
+Redirect 301 /car/i40-Wagon /i40-Wagon/
+Redirect 301 /car/Elantra /Elantra/
+Redirect 301 /car/Creta /Creta/
+Redirect 301 /car/Tucson /Tucson/
+Redirect 301 /car/SantaFe /SantaFe/
+Redirect 301 /car/GrandSantaFe /GrandSantaFe/
+Redirect 301 /car/H-1 /H-1/
+Redirect 301 /car/GenesisNew /GenesisNew/
+Redirect 301 /news/prezentaciya-novogo-hyundai-solaris-2017-v-ring-avto-v-voronezhe-i-lipecke /news/priglashaem-vas-na-prezentatsiyu-novogo-hyundai-solaris-2017-v-ring-avto-v-voronezhe-i-lipetske-/
+Redirect 301 /news/priglashaem-vas-na-prezentaciyu-novogo-hyundai-solaris-2017-v-ring-avto-26-marta-14-00-voronezh-ul-izyskatelej-39-korp-2 /news/priglashaem-vas-na-prezentatsiyu-novogo-hyundai-solaris-2017-v-ring-avto----26-marta-14-00-voronezh-/
+Redirect 301 /news/priglashaem-vas-na-prezentaciyu-novogo-hyundai-solaris-2017-v-ring-avto-26-marta-11-00-lipeck-ul-50-let-nlmk-24 /news/priglashaem-vas-na-prezentatsiyu-novogo-hyundai-solaris-2017-v-ring-avto----26-marta-11-00-lipetsk--/
+Redirect 301 /company/ /
+Redirect 301 /company/management.php /
+Redirect 301 /company/mission.php /
+Redirect 301 /company/history.php /
+Redirect 301 /company/vacancies.php /
+
+
+
+# скрыть трейд ин, по просьбы Константина от 23.06.2017 по телефону
+# Redirect 301 /hpromise/avtomobili-s-probegom/ /
+
+
+<IfModule mod_rewrite.c>
+  Options +FollowSymLinks
+  RewriteEngine On
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !/bitrix/urlrewrite.php$
+  RewriteRule ^(.*)$ /bitrix/urlrewrite.php [L]
+  RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+</IfModule>
+
+<IfModule mod_dir.c>
+  DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive on
+  ExpiresByType image/jpeg "access plus 3 day"
+  ExpiresByType image/gif "access plus 3 day"
+</IfModule>

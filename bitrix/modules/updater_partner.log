@@ -1,0 +1,782 @@
+2017-03-24 16:47:44 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-03-24 16:47:44 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-03-24 16:47:44 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-03-24 16:47:44 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-03-24 16:47:45 -  - TIME GetUpdatesList(request) 0.339 sec
+2017-03-24 16:47:45 -  - exec CUpdateClientPartner::ParseServerData
+2017-03-24 16:47:54 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-03-24 16:47:54 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-03-24 16:47:54 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-03-24 16:47:54 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-03-24 16:47:54 -  - TIME GetUpdatesList(request) 0.385 sec
+2017-03-24 16:47:54 -  - exec CUpdateClientPartner::ParseServerData
+2017-03-24 16:47:58 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-03-24 16:47:58 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-03-24 16:47:58 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-03-24 16:47:58 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-03-24 16:47:58 -  - TIME GetUpdatesList(request) 0.36 sec
+2017-03-24 16:47:58 -  - exec CUpdateClientPartner::ParseServerData
+2017-03-24 16:48:04 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-03-24 16:48:04 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-03-24 16:48:04 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-03-24 16:48:04 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-03-24 16:48:05 -  - TIME GetUpdatesList(request) 0.293 sec
+2017-03-24 16:48:05 -  - exec CUpdateClientPartner::ParseServerData
+2017-03-24 16:48:09 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-03-24 16:48:09 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-03-24 16:48:09 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-03-24 16:48:09 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-03-24 16:48:09 -  - TIME GetUpdatesList(request) 0.393 sec
+2017-03-24 16:48:09 -  - exec CUpdateClientPartner::ParseServerData
+2017-03-24 16:48:14 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-03-24 16:48:14 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-03-24 16:48:14 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-03-24 16:48:14 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-03-24 16:48:14 -  - TIME GetUpdatesList(request) 0.464 sec
+2017-03-24 16:48:14 -  - exec CUpdateClientPartner::ParseServerData
+2017-03-24 16:48:20 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-03-24 16:48:20 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-03-24 16:48:20 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-03-24 16:48:20 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-03-24 16:48:21 -  - TIME GetUpdatesList(request) 0.271 sec
+2017-03-24 16:48:21 -  - exec CUpdateClientPartner::ParseServerData
+2017-03-24 16:48:24 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-03-24 16:48:24 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-03-24 16:48:24 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-03-24 16:48:24 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-03-24 16:48:25 -  - TIME GetUpdatesList(request) 0.272 sec
+2017-03-24 16:48:25 -  - exec CUpdateClientPartner::ParseServerData
+2017-03-24 16:50:23 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-03-24 16:50:23 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-03-24 16:50:23 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-03-24 16:50:23 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-03-24 16:50:24 -  - TIME GetUpdatesList(request) 0.41 sec
+2017-03-24 16:50:24 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:33 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-05 13:40:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:33 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Cbitrix.sitecorporate%2Cthebrainstech.copyiblock%2Casd.tplvars&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:33 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:33 -  - TIME GetUpdatesList(request) 0.618 sec
+2017-04-05 13:40:33 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:38 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:38 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:38 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=asd.tplvars&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:38 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:39 -  - TIME LoadModulesUpdates(request) 0.552 sec
+2017-04-05 13:40:39 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:39 - S - STEP
+2017-04-05 13:40:39 - LMU01 - LoadModulesUpdates-Step
+2017-04-05 13:40:39 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:39 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:39 -  - loadFile
+2017-04-05 13:40:39 - U - RETURN
+2017-04-05 13:40:39 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-04-05 13:40:39 -  - TIME UnGzipArchive 0.035 sec
+2017-04-05 13:40:39 -  - TIME UpdateStepModules 0.067 sec
+2017-04-05 13:40:39 - UPD_SUCCESS - Updated: asd.tplvars
+2017-04-05 13:40:39 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:39 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:39 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.0.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=asd.tplvars&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:39 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:40 -  - TIME LoadModulesUpdates(request) 0.475 sec
+2017-04-05 13:40:40 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:40 - S - STEP
+2017-04-05 13:40:40 - LMU01 - LoadModulesUpdates-Step
+2017-04-05 13:40:40 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:40 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:40 -  - loadFile
+2017-04-05 13:40:40 - U - RETURN
+2017-04-05 13:40:40 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-04-05 13:40:40 -  - TIME UnGzipArchive 0.008 sec
+2017-04-05 13:40:40 - CSURUS1 - Run updater '/bitrix/updates/update_m1491388840/asd.tplvars/updater1.0.2.php'
+2017-04-05 13:40:40 -  - TIME UpdateStepModules 0.01 sec
+2017-04-05 13:40:40 - UPD_SUCCESS - Updated: asd.tplvars (1.0.2)<br>- Изменен порядок проверки показа кнопки на панели.
+2017-04-05 13:40:40 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:40 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:40 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.0.2%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=asd.tplvars&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:40 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:41 -  - TIME LoadModulesUpdates(request) 0.477 sec
+2017-04-05 13:40:41 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:41 - S - STEP
+2017-04-05 13:40:41 - LMU01 - LoadModulesUpdates-Step
+2017-04-05 13:40:41 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:41 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:41 -  - loadFile
+2017-04-05 13:40:41 - U - RETURN
+2017-04-05 13:40:41 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-04-05 13:40:41 -  - TIME UnGzipArchive 0.007 sec
+2017-04-05 13:40:41 - CSURUS1 - Run updater '/bitrix/updates/update_m1491388841/asd.tplvars/updater1.0.3.php'
+2017-04-05 13:40:41 -  - TIME UpdateStepModules 0.01 sec
+2017-04-05 13:40:41 - UPD_SUCCESS - Updated: asd.tplvars (1.0.3)<br>- Дополнил функцией tplinvis: http://dev.1c-bitrix.ru/community/webdev/user/11948/blog/7543/
+2017-04-05 13:40:42 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:42 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:42 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=asd.tplvars&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:42 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:42 -  - TIME LoadModulesUpdates(request) 0.479 sec
+2017-04-05 13:40:42 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:42 - S - STEP
+2017-04-05 13:40:42 - LMU01 - LoadModulesUpdates-Step
+2017-04-05 13:40:42 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:42 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:42 -  - loadFile
+2017-04-05 13:40:43 - U - RETURN
+2017-04-05 13:40:43 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-04-05 13:40:43 -  - TIME UnGzipArchive 0.061 sec
+2017-04-05 13:40:43 - CSURUS1 - Run updater '/bitrix/updates/update_m1491388843/asd.tplvars/updater1.0.4.php'
+2017-04-05 13:40:43 -  - TIME UpdateStepModules 0.006 sec
+2017-04-05 13:40:43 - UPD_SUCCESS - Updated: asd.tplvars (1.0.4)<br>- Мелкие ошибки.
+2017-04-05 13:40:43 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:43 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:43 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.0.4%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=asd.tplvars&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:43 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:43 -  - TIME LoadModulesUpdates(request) 0.516 sec
+2017-04-05 13:40:43 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:43 - S - STEP
+2017-04-05 13:40:43 - LMU01 - LoadModulesUpdates-Step
+2017-04-05 13:40:44 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:44 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:44 -  - loadFile
+2017-04-05 13:40:44 - U - RETURN
+2017-04-05 13:40:44 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-04-05 13:40:44 -  - TIME UnGzipArchive 0.01 sec
+2017-04-05 13:40:44 - CSURUS1 - Run updater '/bitrix/updates/update_m1491388844/asd.tplvars/updater1.0.5.php'
+2017-04-05 13:40:44 -  - TIME UpdateStepModules 0.009 sec
+2017-04-05 13:40:44 - UPD_SUCCESS - Updated: asd.tplvars (1.0.5)<br>- Исправление js-ошибки.
+2017-04-05 13:40:44 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:44 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:44 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.0.5%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=asd.tplvars&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:44 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:45 -  - TIME LoadModulesUpdates(request) 0.588 sec
+2017-04-05 13:40:45 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:45 - S - STEP
+2017-04-05 13:40:45 - LMU01 - LoadModulesUpdates-Step
+2017-04-05 13:40:45 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:45 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:45 -  - loadFile
+2017-04-05 13:40:45 - U - RETURN
+2017-04-05 13:40:45 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-04-05 13:40:45 -  - TIME UnGzipArchive 0.009 sec
+2017-04-05 13:40:45 - CSURUS1 - Run updater '/bitrix/updates/update_m1491388845/asd.tplvars/updater1.1.0.php'
+2017-04-05 13:40:45 -  - TIME UpdateStepModules 0.012 sec
+2017-04-05 13:40:45 - UPD_SUCCESS - Updated: asd.tplvars (1.1.0)<br>- Добавлена функция tplvar_set. Использование: tplvar_set($code, $value, $site), все значения обязательны. 
+2017-04-05 13:40:45 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:45 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:45 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.1.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=asd.tplvars&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:45 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:46 -  - TIME LoadModulesUpdates(request) 0.525 sec
+2017-04-05 13:40:46 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:46 - S - STEP
+2017-04-05 13:40:46 - LMU01 - LoadModulesUpdates-Step
+2017-04-05 13:40:46 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:46 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:46 -  - loadFile
+2017-04-05 13:40:46 - U - RETURN
+2017-04-05 13:40:46 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-04-05 13:40:46 -  - TIME UnGzipArchive 0.009 sec
+2017-04-05 13:40:46 - CSURUS1 - Run updater '/bitrix/updates/update_m1491388846/asd.tplvars/updater1.1.1.php'
+2017-04-05 13:40:46 -  - TIME UpdateStepModules 0.015 sec
+2017-04-05 13:40:46 - UPD_SUCCESS - Updated: asd.tplvars (1.1.1)<br>- Изменен порядок вызова обработчика на добавление кнопки в меню.
+2017-04-05 13:40:47 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:47 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:47 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.1.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=asd.tplvars&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:47 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:47 -  - TIME LoadModulesUpdates(request) 0.68 sec
+2017-04-05 13:40:47 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:47 - S - STEP
+2017-04-05 13:40:47 - LMU01 - LoadModulesUpdates-Step
+2017-04-05 13:40:47 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:47 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:47 -  - loadFile
+2017-04-05 13:40:48 - U - RETURN
+2017-04-05 13:40:48 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-04-05 13:40:48 -  - TIME UnGzipArchive 0.011 sec
+2017-04-05 13:40:48 - CSURUS1 - Run updater '/bitrix/updates/update_m1491388848/asd.tplvars/updater1.2.1.php'
+2017-04-05 13:40:48 -  - TIME UpdateStepModules 0.018 sec
+2017-04-05 13:40:48 - UPD_SUCCESS - Updated: asd.tplvars (1.2.1)<br>- Исправления под 14-ю версию Битрикс.
+2017-04-05 13:40:48 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:48 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:48 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.2.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=asd.tplvars&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:48 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:49 -  - TIME LoadModulesUpdates(request) 0.557 sec
+2017-04-05 13:40:49 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:49 - S - STEP
+2017-04-05 13:40:49 - LMU01 - LoadModulesUpdates-Step
+2017-04-05 13:40:49 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:49 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:49 -  - loadFile
+2017-04-05 13:40:49 - U - RETURN
+2017-04-05 13:40:49 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-04-05 13:40:49 -  - TIME UnGzipArchive 0.036 sec
+2017-04-05 13:40:49 - CSURUS1 - Run updater '/bitrix/updates/update_m1491388849/asd.tplvars/updater1.5.0.php'
+2017-04-05 13:40:49 -  - TIME UpdateStepModules 0.108 sec
+2017-04-05 13:40:49 - UPD_SUCCESS - Updated: asd.tplvars (1.5.0)<br>Поддержка описаний свойств.
+2017-04-05 13:40:49 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:49 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:49 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.0%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=asd.tplvars&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:49 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:50 -  - TIME LoadModulesUpdates(request) 0.492 sec
+2017-04-05 13:40:50 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:50 - S - STEP
+2017-04-05 13:40:50 - LMU01 - LoadModulesUpdates-Step
+2017-04-05 13:40:50 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:50 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:50 -  - loadFile
+2017-04-05 13:40:50 - U - RETURN
+2017-04-05 13:40:50 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-04-05 13:40:50 -  - TIME UnGzipArchive 0.006 sec
+2017-04-05 13:40:50 - CSURUS1 - Run updater '/bitrix/updates/update_m1491388850/asd.tplvars/updater1.5.1.php'
+2017-04-05 13:40:50 -  - TIME UpdateStepModules 0.009 sec
+2017-04-05 13:40:50 - UPD_SUCCESS - Updated: asd.tplvars (1.5.1)<br>Совместимость со старыми версиями.
+2017-04-05 13:40:51 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-04-05 13:40:51 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:51 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=asd.tplvars&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:51 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:51 -  - TIME LoadModulesUpdates(request) 0.51 sec
+2017-04-05 13:40:51 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:51 - STEP - Finish - NOUPDATES
+2017-04-05 13:40:51 - STEP - Finish - NOUPDATES
+2017-04-05 13:40:52 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-05 13:40:52 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:52 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:52 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:53 -  - TIME GetUpdatesList(request) 0.569 sec
+2017-04-05 13:40:53 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-05 13:40:56 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-05 13:40:56 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-05 13:40:56 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CY%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-05 13:40:56 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-05 13:40:56 -  - TIME GetUpdatesList(request) 0.5 sec
+2017-04-05 13:40:56 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-06 17:50:20 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-06 17:50:20 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-06 17:50:20 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-06 17:50:20 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-06 17:50:21 -  - TIME GetUpdatesList(request) 0.524 sec
+2017-04-06 17:50:21 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-06 17:50:27 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-06 17:50:27 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-06 17:50:27 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-06 17:50:27 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-06 17:50:28 -  - TIME GetUpdatesList(request) 0.434 sec
+2017-04-06 17:50:28 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-06 17:50:30 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-06 17:50:30 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-06 17:50:30 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-06 17:50:30 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-06 17:50:30 -  - TIME GetUpdatesList(request) 0.404 sec
+2017-04-06 17:50:30 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-06 17:58:42 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-06 17:58:42 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-06 17:58:42 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-06 17:58:42 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-06 17:58:43 -  - TIME GetUpdatesList(request) 0.526 sec
+2017-04-06 17:58:43 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-06 17:58:47 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-06 17:58:47 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-06 17:58:47 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-06 17:58:47 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-06 17:58:47 -  - TIME GetUpdatesList(request) 0.269 sec
+2017-04-06 17:58:47 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-06 17:58:55 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-06 17:58:55 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-06 17:58:55 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-06 17:58:55 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-06 17:58:55 -  - TIME GetUpdatesList(request) 0.328 sec
+2017-04-06 17:58:55 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-06 17:58:57 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-06 17:58:57 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-06 17:58:57 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-06 17:58:57 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-06 17:58:58 -  - TIME GetUpdatesList(request) 0.389 sec
+2017-04-06 17:58:58 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-06 17:59:04 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-06 17:59:04 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-06 17:59:04 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-06 17:59:04 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-06 17:59:04 -  - TIME GetUpdatesList(request) 0.392 sec
+2017-04-06 17:59:04 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-06 17:59:06 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-06 17:59:06 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-06 17:59:06 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-06 17:59:06 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-06 17:59:06 -  - TIME GetUpdatesList(request) 0.353 sec
+2017-04-06 17:59:06 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-06 18:56:39 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-06 18:56:39 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-06 18:56:39 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=D&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.17&instm=main%2C16.5.4%2CY%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-06 18:56:39 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-06 18:56:39 -  - TIME GetUpdatesList(request) 0.398 sec
+2017-04-06 18:56:39 -  - exec CUpdateClientPartner::ParseServerData
+2017-04-19 16:36:05 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-04-19 16:36:05 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-04-19 16:36:05 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-04-19 16:36:05 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-04-19 16:36:06 -  - TIME GetUpdatesList(request) 0.881 sec
+2017-04-19 16:36:06 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:04:00 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 14:04:00 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 14:04:00 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cthebrainstech.copyiblock%2Cgrain.tables&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 14:04:00 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 14:04:02 -  - TIME GetUpdatesList(request) 1.778 sec
+2017-08-01 14:04:02 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:04:09 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-08-01 14:04:09 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 14:04:09 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=grain.tables&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 14:04:09 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 14:04:10 -  - TIME LoadModulesUpdates(request) 0.897 sec
+2017-08-01 14:04:10 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:04:10 - S - STEP
+2017-08-01 14:04:10 - LMU01 - LoadModulesUpdates-Step
+2017-08-01 14:04:10 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-08-01 14:04:10 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:04:10 -  - loadFile
+2017-08-01 14:04:10 - U - RETURN
+2017-08-01 14:04:10 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-08-01 14:04:11 -  - TIME UnGzipArchive 0.462 sec
+2017-08-01 14:04:11 -  - TIME UpdateStepModules 0.438 sec
+2017-08-01 14:04:11 - UPD_SUCCESS - Updated: grain.tables
+2017-08-01 14:04:12 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-08-01 14:04:12 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 14:04:12 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bgrain.tables%2C3.2.2%2CY%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=grain.tables&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 14:04:12 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 14:04:12 -  - TIME LoadModulesUpdates(request) 0.751 sec
+2017-08-01 14:04:12 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:04:12 - STEP - Finish - NOUPDATES
+2017-08-01 14:04:12 - STEP - Finish - NOUPDATES
+2017-08-01 14:04:24 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 14:04:24 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 14:04:24 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bgrain.tables%2C3.2.2%2CY%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cgrain.tables%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 14:04:24 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 14:04:25 -  - TIME GetUpdatesList(request) 0.493 sec
+2017-08-01 14:04:25 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:04:25 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 14:04:25 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 14:04:25 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bgrain.tables%2C3.2.2%2CY%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cgrain.tables%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 14:04:25 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 14:04:26 -  - TIME GetUpdatesList(request) 0.685 sec
+2017-08-01 14:04:26 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:06:38 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 14:06:38 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 14:06:38 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bgrain.tables%2C3.2.2%2CY%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cgrain.tables%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 14:06:38 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 14:06:39 -  - TIME GetUpdatesList(request) 0.954 sec
+2017-08-01 14:06:39 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:42:57 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 14:42:57 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 14:42:57 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bgrain.tables%2C3.2.2%2CY%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cgrain.tables%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 14:42:57 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 14:42:57 -  - TIME GetUpdatesList(request) 0.628 sec
+2017-08-01 14:42:57 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:43:02 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 14:43:02 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 14:43:02 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bgrain.tables%2C3.2.2%2CY%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cgrain.tables%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 14:43:02 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 14:43:03 -  - TIME GetUpdatesList(request) 0.56 sec
+2017-08-01 14:43:03 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:43:05 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 14:43:05 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 14:43:05 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bgrain.tables%2C3.2.2%2CY%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cgrain.tables%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 14:43:05 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 14:43:05 -  - TIME GetUpdatesList(request) 0.553 sec
+2017-08-01 14:43:05 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:43:12 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 14:43:12 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 14:43:12 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bgrain.tables%2C3.2.2%2CY%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cgrain.tables%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 14:43:12 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 14:43:13 -  - TIME GetUpdatesList(request) 0.423 sec
+2017-08-01 14:43:13 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:43:13 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 14:43:13 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 14:43:13 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 14:43:13 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 14:43:14 -  - TIME GetUpdatesList(request) 0.438 sec
+2017-08-01 14:43:14 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 14:44:35 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 14:44:35 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 14:44:35 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 14:44:35 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 14:44:36 -  - TIME GetUpdatesList(request) 0.485 sec
+2017-08-01 14:44:36 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 18:22:31 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 18:22:31 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 18:22:31 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 18:22:31 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 18:22:32 -  - TIME GetUpdatesList(request) 0.77 sec
+2017-08-01 18:22:32 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 18:22:44 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 18:22:44 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 18:22:44 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 18:22:44 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 18:22:45 -  - TIME GetUpdatesList(request) 0.624 sec
+2017-08-01 18:22:45 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 18:22:47 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 18:22:47 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 18:22:47 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 18:22:47 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 18:22:48 -  - TIME GetUpdatesList(request) 0.437 sec
+2017-08-01 18:22:48 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 18:27:58 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 18:27:58 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 18:27:58 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 18:27:58 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 18:27:59 -  - TIME GetUpdatesList(request) 0.473 sec
+2017-08-01 18:27:59 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-01 18:28:04 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-01 18:28:04 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-01 18:28:04 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=ringauto&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=3&TYPENC=E&CLIENT_PHPVER=5.6.19&NGINX=Y&dbv=5.5.48&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Bsearch%2C16.0.0%2CN%3Bseo%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Btranslate%2C14.5.0%2CN&reqm=altasib.feedback%2Casd.tplvars%2Cbitrix.sitecorporate%2Cthebrainstech.copyiblock&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-01 18:28:04 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-01 18:28:04 -  - TIME GetUpdatesList(request) 0.452 sec
+2017-08-01 18:28:04 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-04 17:32:20 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-04 17:32:20 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-04 17:32:20 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-04 17:32:20 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-04 17:32:20 -  - TIME GetUpdatesList(request) 0.283 sec
+2017-08-04 17:32:20 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-04 17:32:36 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-04 17:32:36 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-04 17:32:36 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-04 17:32:36 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-04 17:32:37 -  - TIME GetUpdatesList(request) 0.4 sec
+2017-08-04 17:32:37 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-04 17:34:38 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-04 17:34:38 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-04 17:34:38 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-04 17:34:38 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-04 17:34:38 -  - TIME GetUpdatesList(request) 0.232 sec
+2017-08-04 17:34:38 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-04 17:34:41 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-04 17:34:41 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-04 17:34:41 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-04 17:34:41 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-04 17:34:41 -  - TIME GetUpdatesList(request) 0.302 sec
+2017-08-04 17:34:41 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-04 17:34:43 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-04 17:34:43 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-04 17:34:43 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-04 17:34:43 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-04 17:34:43 -  - TIME GetUpdatesList(request) 0.438 sec
+2017-08-04 17:34:43 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-16 15:25:34 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-16 15:25:34 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-16 15:25:34 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-16 15:25:34 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-16 15:25:34 -  - TIME GetUpdatesList(request) 0.484 sec
+2017-08-16 15:25:34 -  - exec CUpdateClientPartner::ParseServerData
+2017-08-16 15:25:49 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-08-16 15:25:49 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-08-16 15:25:49 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto-lip.ru&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-08-16 15:25:49 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-08-16 15:25:50 -  - TIME GetUpdatesList(request) 0.481 sec
+2017-08-16 15:25:50 -  - exec CUpdateClientPartner::ParseServerData
+2017-09-12 12:10:00 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-09-12 12:10:00 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-09-12 12:10:00 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-09-12 12:10:00 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-09-12 12:10:00 -  - TIME GetUpdatesList(request) 0.55 sec
+2017-09-12 12:10:00 -  - exec CUpdateClientPartner::ParseServerData
+2017-09-12 12:10:13 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-09-12 12:10:13 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-09-12 12:10:13 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-09-12 12:10:13 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-09-12 12:10:14 -  - TIME GetUpdatesList(request) 0.777 sec
+2017-09-12 12:10:14 -  - exec CUpdateClientPartner::ParseServerData
+2017-09-27 23:49:12 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-09-27 23:49:12 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-09-27 23:49:12 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-09-27 23:49:12 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-09-27 23:49:13 -  - TIME GetUpdatesList(request) 0.287 sec
+2017-09-27 23:49:13 -  - exec CUpdateClientPartner::ParseServerData
+2017-09-27 23:49:21 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-09-27 23:49:21 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-09-27 23:49:21 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars&SUPD_SRS=RU&SUPD_CMP=Y
+2017-09-27 23:49:21 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-09-27 23:49:21 -  - TIME GetUpdatesList(request) 0.328 sec
+2017-09-27 23:49:21 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-13 19:54:42 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-10-13 19:54:42 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-10-13 19:54:42 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=3&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars%2Ckarudo.vcs&SUPD_SRS=RU&SUPD_CMP=Y
+2017-10-13 19:54:42 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-10-13 19:54:43 -  - TIME GetUpdatesList(request) 0.388 sec
+2017-10-13 19:54:43 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:03 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-10-17 18:31:03 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-10-17 18:31:03 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=3&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Casd.tplvars%2Ckarudo.vcs&SUPD_SRS=RU&SUPD_CMP=Y
+2017-10-17 18:31:03 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-10-17 18:31:04 -  - TIME GetUpdatesList(request) 0.585 sec
+2017-10-17 18:31:04 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:13 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:13 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-10-17 18:31:13 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=3&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=karudo.vcs&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-10-17 18:31:13 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-10-17 18:31:13 -  - TIME LoadModulesUpdates(request) 0.305 sec
+2017-10-17 18:31:13 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:13 - S - STEP
+2017-10-17 18:31:13 - LMU01 - LoadModulesUpdates-Step
+2017-10-17 18:31:14 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:14 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:14 -  - loadFile
+2017-10-17 18:31:14 - U - RETURN
+2017-10-17 18:31:14 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-10-17 18:31:14 -  - TIME UnGzipArchive 0.025 sec
+2017-10-17 18:31:14 -  - TIME UpdateStepModules 0.03 sec
+2017-10-17 18:31:14 - UPD_SUCCESS - Updated: karudo.vcs
+2017-10-17 18:31:14 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:14 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-10-17 18:31:14 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=3&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.0.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=karudo.vcs&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-10-17 18:31:14 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-10-17 18:31:14 -  - TIME LoadModulesUpdates(request) 0.409 sec
+2017-10-17 18:31:14 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:14 - S - STEP
+2017-10-17 18:31:14 - LMU01 - LoadModulesUpdates-Step
+2017-10-17 18:31:14 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:14 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:14 -  - loadFile
+2017-10-17 18:31:15 - U - RETURN
+2017-10-17 18:31:15 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-10-17 18:31:15 -  - TIME UnGzipArchive 0.013 sec
+2017-10-17 18:31:15 - CSURUS1 - Run updater '/bitrix/updates/update_m1508254275/karudo.vcs/updater1.1.0.php'
+2017-10-17 18:31:15 -  - TIME UpdateStepModules 0.017 sec
+2017-10-17 18:31:15 - UPD_SUCCESS - Updated: karudo.vcs (1.1.0)<br><li>Добавлена возможность удаления файлов из репозитория</li> <li>Мелкие интерфейсные изменения</li>
+2017-10-17 18:31:15 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:15 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-10-17 18:31:15 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=3&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.0%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=karudo.vcs&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-10-17 18:31:15 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-10-17 18:31:15 -  - TIME LoadModulesUpdates(request) 0.27 sec
+2017-10-17 18:31:15 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:15 - S - STEP
+2017-10-17 18:31:15 - LMU01 - LoadModulesUpdates-Step
+2017-10-17 18:31:15 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:15 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:15 -  - loadFile
+2017-10-17 18:31:15 - U - RETURN
+2017-10-17 18:31:15 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-10-17 18:31:15 -  - TIME UnGzipArchive 0.008 sec
+2017-10-17 18:31:15 - CSURUS1 - Run updater '/bitrix/updates/update_m1508254275/karudo.vcs/updater1.1.2.php'
+2017-10-17 18:31:15 -  - TIME UpdateStepModules 0.007 sec
+2017-10-17 18:31:15 - UPD_SUCCESS - Updated: karudo.vcs (1.1.2)<br><li>Интерфейсные улучшения</li> <li>Исправление ошибок</li> <li>Оптимизация кода</li>
+2017-10-17 18:31:15 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:15 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-10-17 18:31:15 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=3&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.2%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=karudo.vcs&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-10-17 18:31:15 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-10-17 18:31:16 -  - TIME LoadModulesUpdates(request) 0.318 sec
+2017-10-17 18:31:16 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:16 - S - STEP
+2017-10-17 18:31:16 - LMU01 - LoadModulesUpdates-Step
+2017-10-17 18:31:16 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:16 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:16 -  - loadFile
+2017-10-17 18:31:16 - U - RETURN
+2017-10-17 18:31:16 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-10-17 18:31:16 -  - TIME UnGzipArchive 0.006 sec
+2017-10-17 18:31:16 - CSURUS1 - Run updater '/bitrix/updates/update_m1508254276/karudo.vcs/updater1.1.3.php'
+2017-10-17 18:31:16 -  - TIME UpdateStepModules 0.006 sec
+2017-10-17 18:31:16 - UPD_SUCCESS - Updated: karudo.vcs (1.1.3)<br><li>Наглядный процесс проврки новых файлов</li> <li>Возможность диагностики серверных ошибок</li> 
+2017-10-17 18:31:16 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:16 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-10-17 18:31:16 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=3&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.3%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=karudo.vcs&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-10-17 18:31:16 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-10-17 18:31:17 -  - TIME LoadModulesUpdates(request) 0.334 sec
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:17 - S - STEP
+2017-10-17 18:31:17 - LMU01 - LoadModulesUpdates-Step
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:17 -  - loadFile
+2017-10-17 18:31:17 - U - RETURN
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-10-17 18:31:17 -  - TIME UnGzipArchive 0.001 sec
+2017-10-17 18:31:17 -  - TIME UpdateStepModules 0.001 sec
+2017-10-17 18:31:17 - UPD_SUCCESS - Updated: karudo.vcs (1.1.4)<br><li>Исправиление ошибки связанной с неработой админской части при окончании срока работы демоверсии</li> 
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-10-17 18:31:17 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=3&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.4%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=karudo.vcs&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-10-17 18:31:17 -  - TIME LoadModulesUpdates(request) 0.368 sec
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:17 - S - STEP
+2017-10-17 18:31:17 - LMU01 - LoadModulesUpdates-Step
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:17 -  - loadFile
+2017-10-17 18:31:17 - U - RETURN
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-10-17 18:31:17 -  - TIME UnGzipArchive 0.001 sec
+2017-10-17 18:31:17 -  - TIME UpdateStepModules 0.002 sec
+2017-10-17 18:31:17 - UPD_SUCCESS - Updated: karudo.vcs (1.1.5)<br><li>исправлены предупреждения сканера безопасности
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-10-17 18:31:17 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=3&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=karudo.vcs&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-10-17 18:31:17 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-10-17 18:31:18 -  - TIME LoadModulesUpdates(request) 0.302 sec
+2017-10-17 18:31:18 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:18 - STEP - Finish - NOUPDATES
+2017-10-17 18:31:18 - STEP - Finish - NOUPDATES
+2017-10-17 18:31:43 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-10-17 18:31:43 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-10-17 18:31:43 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=3&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-10-17 18:31:43 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-10-17 18:31:43 -  - TIME GetUpdatesList(request) 0.298 sec
+2017-10-17 18:31:43 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:47 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-10-17 18:31:47 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-10-17 18:31:47 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=3&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-10-17 18:31:47 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-10-17 18:31:48 -  - TIME GetUpdatesList(request) 0.353 sec
+2017-10-17 18:31:48 -  - exec CUpdateClientPartner::ParseServerData
+2017-10-17 18:31:48 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-10-17 18:31:48 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-10-17 18:31:48 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=3&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-10-17 18:31:48 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-10-17 18:31:48 -  - TIME GetUpdatesList(request) 0.301 sec
+2017-10-17 18:31:48 -  - exec CUpdateClientPartner::ParseServerData
+2017-11-09 14:56:32 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-11-09 14:56:32 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-11-09 14:56:32 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringsever.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.18&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-11-09 14:56:32 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-11-09 14:56:32 -  - TIME GetUpdatesList(request) 0.35 sec
+2017-11-09 14:56:32 -  - exec CUpdateClientPartner::ParseServerData
+2017-11-14 18:43:48 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-11-14 18:43:48 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-11-14 18:43:48 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&SUPD_SRS=RU&SUPD_CMP=Y
+2017-11-14 18:43:48 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-11-14 18:43:48 -  - TIME GetUpdatesList(request) 0.456 sec
+2017-11-14 18:43:48 -  - exec CUpdateClientPartner::ParseServerData
+2017-11-14 18:44:04 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-11-14 18:44:04 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-11-14 18:44:04 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&SUPD_SRS=RU&SUPD_CMP=Y
+2017-11-14 18:44:04 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-11-14 18:44:04 -  - TIME GetUpdatesList(request) 0.302 sec
+2017-11-14 18:44:04 -  - exec CUpdateClientPartner::ParseServerData
+2017-11-14 18:44:27 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-11-14 18:44:27 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-11-14 18:44:27 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-11-14 18:44:27 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-11-14 18:44:27 -  - TIME GetUpdatesList(request) 0.29 sec
+2017-11-14 18:44:27 -  - exec CUpdateClientPartner::ParseServerData
+2017-11-14 18:45:38 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-11-14 18:45:38 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-11-14 18:45:38 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars%2Cartrix.imageoptimizer&SUPD_SRS=RU&SUPD_CMP=Y
+2017-11-14 18:45:38 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-11-14 18:45:39 -  - TIME GetUpdatesList(request) 0.389 sec
+2017-11-14 18:45:39 -  - exec CUpdateClientPartner::ParseServerData
+2017-11-14 18:48:19 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-11-14 18:48:19 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-11-14 18:48:19 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Cartrix.imageoptimizer%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&SUPD_SRS=RU&SUPD_CMP=Y
+2017-11-14 18:48:19 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-11-14 18:48:19 -  - TIME GetUpdatesList(request) 0.23 sec
+2017-11-14 18:48:19 -  - exec CUpdateClientPartner::ParseServerData
+2017-11-14 18:48:22 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-11-14 18:48:22 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-11-14 18:48:22 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Cartrix.imageoptimizer%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-11-14 18:48:22 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-11-14 18:48:22 -  - TIME GetUpdatesList(request) 0.259 sec
+2017-11-14 18:48:22 -  - exec CUpdateClientPartner::ParseServerData
+2017-11-14 19:11:09 - Ux11 - Ошибка описания модуля "artrix.imageoptimizer"
+2017-11-14 19:11:09 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-11-14 19:11:09 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-11-14 19:11:09 - Ux11 - Ошибка описания модуля "artrix.imageoptimizer"
+2017-11-14 19:11:09 - NCRD01 - [Ux11] Ошибка описания модуля "artrix.imageoptimizer". 
+2017-11-14 19:11:09 - GUL01 - Empty query list
+2017-11-14 19:11:09 - Ux11 - Ошибка описания модуля "artrix.imageoptimizer"
+2017-11-14 19:11:12 - Ux11 - Ошибка описания модуля "artrix.imageoptimizer"
+2017-11-14 19:11:19 - Ux11 - Ошибка описания модуля "artrix.imageoptimizer"
+2017-11-14 19:11:19 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-11-14 19:11:19 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-11-14 19:11:19 - Ux11 - Ошибка описания модуля "artrix.imageoptimizer"
+2017-11-14 19:11:19 - NCRD01 - [Ux11] Ошибка описания модуля "artrix.imageoptimizer". 
+2017-11-14 19:11:19 - GUL01 - Empty query list
+2017-11-14 19:11:19 - Ux11 - Ошибка описания модуля "artrix.imageoptimizer"
+2017-11-14 19:26:06 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-11-14 19:26:06 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-11-14 19:26:06 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Cartrix.imageoptimizer%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-11-14 19:26:06 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-11-14 19:26:07 -  - TIME GetUpdatesList(request) 0.349 sec
+2017-11-14 19:26:07 -  - exec CUpdateClientPartner::ParseServerData
+2017-11-14 19:26:20 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-11-14 19:26:20 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-11-14 19:26:20 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Cartrix.imageoptimizer%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-11-14 19:26:20 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-11-14 19:26:20 -  - TIME GetUpdatesList(request) 0.215 sec
+2017-11-14 19:26:20 -  - exec CUpdateClientPartner::ParseServerData
+2017-11-14 19:26:20 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-11-14 19:26:20 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-11-14 19:26:20 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Cartrix.imageoptimizer%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-11-14 19:26:20 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-11-14 19:26:20 -  - TIME GetUpdatesList(request) 0.275 sec
+2017-11-14 19:26:20 -  - exec CUpdateClientPartner::ParseServerData
+2017-12-08 17:36:40 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-12-08 17:36:40 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-12-08 17:36:40 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Cartrix.imageoptimizer%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-12-08 17:36:40 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-12-08 17:36:40 -  - TIME GetUpdatesList(request) 0.322 sec
+2017-12-08 17:36:40 -  - exec CUpdateClientPartner::ParseServerData
+2017-12-14 13:41:15 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-12-14 13:41:15 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-12-14 13:41:15 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Cartrix.imageoptimizer%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars%2Casd.iblock&SUPD_SRS=RU&SUPD_CMP=Y
+2017-12-14 13:41:15 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-12-14 13:41:15 -  - TIME GetUpdatesList(request) 0.268 sec
+2017-12-14 13:41:15 -  - exec CUpdateClientPartner::ParseServerData
+2017-12-14 13:43:41 - Ux11 - Ошибка описания модуля "asd.iblock"
+2017-12-14 13:43:41 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-12-14 13:43:41 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-12-14 13:43:41 - Ux11 - Ошибка описания модуля "asd.iblock"
+2017-12-14 13:43:41 - NCRD01 - [Ux11] Ошибка описания модуля "asd.iblock". 
+2017-12-14 13:43:41 - GUL01 - Empty query list
+2017-12-14 13:43:41 - Ux11 - Ошибка описания модуля "asd.iblock"
+2017-12-14 14:01:33 - Ux11 - Ошибка описания модуля "asd.iblock"
+2017-12-14 14:01:33 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-12-14 14:01:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-12-14 14:01:33 - Ux11 - Ошибка описания модуля "asd.iblock"
+2017-12-14 14:01:33 - NCRD01 - [Ux11] Ошибка описания модуля "asd.iblock". 
+2017-12-14 14:01:33 - GUL01 - Empty query list
+2017-12-14 14:01:33 - Ux11 - Ошибка описания модуля "asd.iblock"
+2017-12-14 14:01:39 - Ux11 - Ошибка описания модуля "asd.iblock"
+2017-12-14 14:01:39 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-12-14 14:01:39 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-12-14 14:01:39 - Ux11 - Ошибка описания модуля "asd.iblock"
+2017-12-14 14:01:39 - NCRD01 - [Ux11] Ошибка описания модуля "asd.iblock". 
+2017-12-14 14:01:39 - GUL01 - Empty query list
+2017-12-14 14:01:39 - Ux11 - Ошибка описания модуля "asd.iblock"
+2017-12-14 15:19:52 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-12-14 15:19:52 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-12-14 15:19:52 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Basd.iblock%2C4.6.6%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Cartrix.imageoptimizer%2Casd.iblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-12-14 15:19:52 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-12-14 15:19:53 -  - TIME GetUpdatesList(request) 0.313 sec
+2017-12-14 15:19:53 -  - exec CUpdateClientPartner::ParseServerData
+2017-12-14 15:19:57 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-12-14 15:19:57 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-12-14 15:19:57 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=4&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Basd.iblock%2C4.6.6%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Cartrix.imageoptimizer%2Casd.iblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2017-12-14 15:19:57 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-12-14 15:19:58 -  - TIME GetUpdatesList(request) 0.219 sec
+2017-12-14 15:19:58 -  - exec CUpdateClientPartner::ParseServerData
+2018-02-05 11:56:08 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-02-05 11:56:08 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-02-05 11:56:08 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=5&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Basd.iblock%2C4.6.6%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Cartrix.imageoptimizer%2Casd.iblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2018-02-05 11:56:08 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-02-05 11:56:08 -  - TIME GetUpdatesList(request) 0.436 sec
+2018-02-05 11:56:08 -  - exec CUpdateClientPartner::ParseServerData
+2018-02-05 12:09:25 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-02-05 12:09:25 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-02-05 12:09:25 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=5&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Basd.iblock%2C4.6.6%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Cartrix.imageoptimizer%2Casd.iblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2018-02-05 12:09:25 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-02-05 12:09:25 -  - TIME GetUpdatesList(request) 0.335 sec
+2018-02-05 12:09:25 -  - exec CUpdateClientPartner::ParseServerData
+2018-02-05 16:33:46 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-02-05 16:33:46 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-02-05 16:33:46 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=5&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.19&instm=main%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bperfmon%2C16.0.0%2CN%3Btranslate%2C14.5.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bsocialservices%2C16.5.4%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bfileman%2C16.5.4%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Bclouds%2C16.0.1%2CN%3Bseo%2C16.0.3%2CN%3Basd.iblock%2C4.6.6%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Basd.tplvars%2C1.5.1%2CN&reqm=thebrainstech.copyiblock%2Cartrix.imageoptimizer%2Casd.iblock%2Caltasib.feedback%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2018-02-05 16:33:46 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-02-05 16:33:46 -  - TIME GetUpdatesList(request) 0.314 sec
+2018-02-05 16:33:46 -  - exec CUpdateClientPartner::ParseServerData
+2018-04-13 10:54:21 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-04-13 10:54:21 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-04-13 10:54:21 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=5&SUPD_URS=0&SUPD_URSA=7&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.21&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bsocialservices%2C16.5.4%2CN%3Bfileman%2C16.5.4%2CN%3Btranslate%2C14.5.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Biblock%2C16.5.2%2CN%3Bclouds%2C16.0.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Basd.iblock%2C4.6.6%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bseo%2C16.0.3%2CN%3Bcompression%2C16.0.0%2CN&reqm=altasib.feedback%2Cthebrainstech.copyiblock%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.iblock%2Cartrix.imageoptimizer%2Casd.tplvars&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2018-04-13 10:54:21 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-04-13 10:54:22 -  - TIME GetUpdatesList(request) 0.432 sec
+2018-04-13 10:54:22 -  - exec CUpdateClientPartner::ParseServerData
+2018-05-10 11:22:59 -  - exec CUpdateClientPartner::GetUpdatesList
+2018-05-10 11:22:59 -  - exec CUpdateClientPartner::__CollectRequestData
+2018-05-10 11:22:59 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=hyundai-ringauto.ru&LICENSE_KEY=X&SUPD_STS=5&SUPD_URS=0&SUPD_URSA=7&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=5.7.21&instm=main%2C16.5.4%2CN%3Baltasib.feedback%2C2.5.1%2CN%3Bsocialservices%2C16.5.4%2CN%3Bfileman%2C16.5.4%2CN%3Btranslate%2C14.5.0%2CN%3Bthebrainstech.copyiblock%2C1.1.0%2CN%3Bsearch%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Biblock%2C16.5.2%2CN%3Bclouds%2C16.0.1%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bkarudo.vcs%2C1.1.5%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Basd.iblock%2C4.6.6%2CN%3Bartrix.imageoptimizer%2C1.0.6%2CN%3Basd.tplvars%2C1.5.1%2CN%3Bhighloadblock%2C16.0.2%2CN%3Bseo%2C16.0.3%2CN%3Bcompression%2C16.0.0%2CN&reqm=altasib.feedback%2Cthebrainstech.copyiblock%2Cbitrix.sitecorporate%2Ckarudo.vcs%2Casd.iblock%2Cartrix.imageoptimizer%2Casd.tplvars&SUPD_SRS=RU&SUPD_CMP=Y
+2018-05-10 11:22:59 -  - exec CUpdateClientPartner::GetHTTPPage
+2018-05-10 11:23:00 -  - TIME GetUpdatesList(request) 0.469 sec
+2018-05-10 11:23:00 -  - exec CUpdateClientPartner::ParseServerData
