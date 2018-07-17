@@ -425,7 +425,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                         <div class="main mkv">
                                             <div class="title">
                                                 <img src="http://www.hyundai.ru/media/images/flat/SL/elements/logo.png" title="Solaris">
-                                                <span>Всегда что-то большее</span>
+                                                <span>Свой для каждого.</span>
                                             </div>
                                             <div class="title-price">
                                                 <? price_to_url($APPLICATION->GetCurPage()); ?> <br>
@@ -434,8 +434,8 @@ $APPLICATION->SetTitle("NewSolaris");
                                             <?
                                             model_credit(
                                                 array(
-                                                    array("val" => "6 000","text" => "₽/месяц*"),
-                                                    array("text" => "<b>КАСКО</b> в подарок**")
+                                                    array("val" => "5%","text" => "кредит**"),
+                                                    array("text" => "<b>КАСКО</b> в подарок***")
                                                 )
                                             );
                                             ?>
@@ -526,21 +526,20 @@ $APPLICATION->SetTitle("NewSolaris");
                                     <div class="configurator-controls dublay">
                                         <div class="configurator-control dublay-ch dublay-ch--by-50">
                                             <ul class="configurator-360-selectors view-360-color-selector">
-                                                <li class="configurator-360-selector view-360-color-selector__item" data-color="marina_blue" data-name="Marina Blue"><span style="color: #325488"></span></li>
-                                                <li class="configurator-360-selector view-360-color-selector__item" data-color="sleek_silver" data-name="Sleek Silver"><span style="color: #cfcfcf"></span></li>
-                                                <li class="configurator-360-selector view-360-color-selector__item" data-color="fiery_red" data-name="Fiery Red"><span style="color: #c64040"></span></li>
-                                                <li class="configurator-360-selector view-360-color-selector__item" data-color="phantom_black" data-name="Phantom Black"><span style="color: #08090b"></span></li>
                                                 <li class="configurator-360-selector view-360-color-selector__item" data-color="crystal_white" data-name="Crystal White"><span style="color: #f0f0f0"></span></li>
-                                                <li class="configurator-360-selector view-360-color-selector__item" data-color="sunset_orange" data-name="Sunset Orange"><span style="color: #d87c5a"></span></li>
+                                                <li class="configurator-360-selector view-360-color-selector__item" data-color="phantom_black" data-name="Phantom Black"><span style="color: #08090b"></span></li>
+                                                <li class="configurator-360-selector view-360-color-selector__item" data-color="fiery_red" data-name="Fiery Red"><span style="color: #c64040"></span></li>
+                                                <li class="configurator-360-selector view-360-color-selector__item" data-color="sleek_silver" data-name="Sleek Silver"><span style="color: #cfcfcf"></span></li>
                                                 <li class="configurator-360-selector view-360-color-selector__item" data-color="urban_gray" data-name="Urban Gray"><span style="color: #7f7f7f"></span></li>
+                                                <li class="configurator-360-selector view-360-color-selector__item" data-color="marina_blue" data-name="Marina Blue"><span style="color: #325488"></span></li>
+                                                <li class="configurator-360-selector view-360-color-selector__item" data-color="sunset_orange" data-name="Sunset Orange"><span style="color: #d87c5a"></span></li>
                                             </ul>
                                             <span class="configurator-360-color-name view-360-color-name">Marina Blue</span>
                                         </div>
                                         <div class="configurator-control dublay-ch dublay-ch--by-50">
                                             <a href="http://www.hyundai.ru/configurator" target="_blank" class="configurator-link">
                                                 <div class="configurator-link-text">
-                                                    от <span class="configurator-price-val"> 644 900 </span> &#8381;
-                                                    <!-- 										<span class="configurator-credit">Конфигуратор</span> -->
+                                                    <span class="configurator-price-val"><? price_to_url($APPLICATION->GetCurPage()); ?></span>
                                                     <span class="configurator-credit">В кредит от <span class="configurator-credit-val">6000</span> &#8381; в месяц</span>
                                                 </div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" class="svg corner-right-light"><use xlink:href="#light"></use></svg>
@@ -1582,11 +1581,12 @@ $APPLICATION->SetTitle("NewSolaris");
                             </ul>
                             <p>*В 2017 году Новый Hyundai Solaris стал первым из 39 автомобилей, набрав 16 баллов из 16 возможных в рейтинге пассивной безопасности ARCAP (Autoreview Car Assessment Program – Программа оценки автомобилей «Авторевю»), опубликованном автомобильным изданием «Авторевю». ARCAP - рейтинг пассивной безопасности автомобилей при фронтальном ударе, составляемый автомобильным изданием «Авторевю» по итогам краш – теста по методике ARCAP. С подробным описанием целей и методики ARCAP и результатами предыдущих испытаний можно ознакомиться на сайте <a href="https://autoreview.ru/arcap/">www.autoreview.ru/arcap/</a></p><br>
                             <p>
-                                **Платеж рассчитан по программе Hyundai Старт исходя из цены Solaris 1.4 6MT Active (Актив) 624 900 р. 2017 года производства на условиях кредитного продукта «ДИРЕКТ Баллун ПСП КЛАССИКА: Hyundai в кредит»: срок кредита 36 мес., процентная ставка 9,9 % годовых, первоначальный взнос 271 000 р., сумма кредита 395 418 р. Гарантированная остаточная стоимость автомобиля (часть стоимости автомобиля, подлежащая оплате в конце срока кредита) ― 45% от цены на момент покупки. Обязательно оформление полиса КАСКО на весь срок кредита в страховых компаниях, соответствующих требованиям Банка. Тарифным планом предусмотрена финансовая защита кредита. Кредит предоставляется ООО «Русфинанс Банк» Генеральная лицензия ЦБ РФ №1792 от 13.02.2013 г. Предложение действует с 01.02.18 по 28.02.18г., не является офертой. Условия могут быть изменены Банком в одностороннем порядке. Подробные условия кредитования на сайте www.rusfinancebank.ru.
-                            </p><br>
+                                **5.0% годовых – процентная ставка в кредитном договоре. Валюта кредита - рубли РФ; уровень первоначального взноса от 30% от стоимости автомобиля. Срок кредита 12-36 месяцев. Программа распространяется на покупку в кредит Hyundai Solaris. Программой предусмотрено страхование жизни и здоровья заемщика. Минимальная сумма кредита – 50 000 руб., максимальная сумма кредита – 6 500 000 руб.. Обязательно подтверждение дохода клиента. Залоговое обеспечение - залог приобретаемого ТС. Обязательно оформление полиса КАСКО на весь срок кредита в страховых компаниях, соответствующих требованиям Банка. Кредит предоставляется ООО «Русфинанс Банк» Генеральная лицензия ЦБ РФ №1792 от 13.02.2013г. Предложение действует с 01.06.18 по 30.06.18, не является офертой. Условия могут быть изменены Банком в одностороннем порядке.
+                            </p><br/>
+
                             <p>
-                                ***Полис КАСКО на безвозмездной основе оформляется на срок 1 (один) год в ПАО СК «Росгосстрах» и САО «ВСК» при покупке нового Hyundai Solaris в кредит по программе СТАРТ. Указанная информация носит справочный характер и не является публичной офертой. Условия и тарифы могут быть изменены ПАО СК «Росгосстрах» и САО «ВСК» в одностороннем порядке. Предложение действует до 30.03.2018г.
-                            </p><br>
+                                ***Полис КАСКО на безвозмездной основе оформляется на срок 1 (один) год в САО «ВСК» при покупке нового Hyundai Solaris в кредит по программе СТАРТ. Указанная информация носит справочный характер и не является публичной офертой. Условия и тарифы могут быть изменены САО «ВСК» в одностороннем порядке. Предложение действует до 30.06.2018г.
+                            </p><br/>
                         </div>
                     </div>
                 </main>
@@ -1605,7 +1605,6 @@ $APPLICATION->SetTitle("NewSolaris");
     Контент страницы закончится тут
     -->
 
-    <script src="http://www.hyundai.ru/assets/js/common.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
     <script type="text/javascript" src="http://www.hyundai.ru/media/js/libs/spritespin.js"></script>
     <script type="text/javascript" src="http://www.hyundai.ru/media/js/libs/jquery.lazyload.min.js"></script>
