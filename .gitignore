@@ -1,4 +1,5 @@
 upload/*
+media/*
 bitrix/php_interface/*
 !/bitrix/php_interface/init.php
 bitrix/.settings.php
