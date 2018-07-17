@@ -128,7 +128,7 @@ $APPLICATION->SetTitle("Новые рекорды с сервисом Hyundai!")
                         <div class="main-message">Мы хотим, чтобы владеть автомобилем Hyundai было просто и удобно</div>
                     </div>
                     <div class="grid-el grid-el-50 bottom-area-line__inner-right">
-                        <a href="/test-drive/" class="request-service-btn" style="margin-right: 20px;">запись на сервис</a>
+                        <a href="#" onclick="$('.zing_form_toggler').click();" class="request-service-btn" style="margin-right: 20px;">запись на сервис</a>
                         <a href="/shell/" class="request-service-btn">Выберите масло</a>
                     </div>
                 </div>
