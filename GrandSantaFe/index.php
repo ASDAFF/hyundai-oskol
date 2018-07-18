@@ -88,6 +88,7 @@ $APPLICATION->SetTitle("GrandSantaFe");
                                         <div class="title-price">
                                             <? price_to_url($APPLICATION->GetCurPage()); ?> <br>
                                             <? profit_to_url($APPLICATION->GetCurPage()); ?> <br>
+                                            <a href="/start/" class="title-price-notice" style="padding: 0;">В кредит от 16 000 ₽ / месяц*</a>
                                             <div class="title-price-casco">+ каско в подарок!<sup>**</sup>
                                             </div>
                                         </div>
