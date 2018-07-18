@@ -230,7 +230,16 @@ $APPLICATION->SetTitle("all-offers");
                     </a>
                 </div>
 -->
-                
+                <div class="insection-offer-unit">
+                    <a href="/promo/shell" class="insection-offer-unit__link">
+                        <img src="http://www.hyundai.ru/media/offers_image/dd77b6edbce77f33b7c4c23fd7d6e125_1920x530_Hyundai_Shell.jpg" alt="" class="insection-offer-unit__back-img">
+                        <div class="insection-offer-unit__info">
+                            <span class="name">Новые рекорды с сервисом Hyundai</span>
+                            <span class="addinfo"></span>
+                        </div>
+                    </a>
+                </div>
+
                 <div class="insection-offer-unit">
                     <a href="/promo/parts/" class="insection-offer-unit__link">
                         <img src="/media/offers_image/ed4e-4f2a-92e3-a6a74829070d.jpg" alt="" class="insection-offer-unit__back-img">
