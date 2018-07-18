@@ -86,6 +86,8 @@
 
 <div id="wrapper">
 
+	<div class="menu-overlay"></div>
+
 	<header class="header-primary" id="header-primary">
 		<div class="navbar-primary">
 

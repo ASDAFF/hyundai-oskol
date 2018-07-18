@@ -326,7 +326,7 @@ var Spreader = function() {
                 var a = s[e];
                 a === t ? (i.find('[data-role="' + a + '"]')[0].classList.toggle(n), i.find('[data-role="' + s[e] + '-link"]').length && i.find('[data-role="' + s[e] + '-link"]')[0].classList.toggle(n)) : (i.find('[data-role="' + a + '"]')[0].classList.remove(n), i.find('[data-role="' + s[e] + '-link"]').length && i.find('[data-role="' + s[e] + '-link"]')[0].classList.remove(n))
             }
-
+            $('.menu-overlay').toggleClass("_active", $('[data-role="' + t + '"]').hasClass('_active'));
         }
         var e = new Spreader("#online-call-template", {
                 onShow: function() {
@@ -375,6 +375,7 @@ var Spreader = function() {
             i = $("#header-primary"),
             n = "_active",
             s = ["navbar-support", "showroom-submenu", 'n-submenu'];
+            menuOverlay = $('.menu-overlay');
         i.find('[data-role="navbar-support"]').on("click", function(e) {
             e.stopPropagation(), t("navbar-support")
         }).find("> div").on("click", function(t) {
@@ -386,7 +387,9 @@ var Spreader = function() {
         }).find("> div").on("click", function(t) {
             t.stopPropagation()
         }), i.find('[data-role="n-submenu-link"]').on("click", function(e) {
-            e.stopPropagation(), t("n-submenu")
+            e.stopPropagation(),
+            t("n-submenu")
+
         }).find("> div").on("click", function(t) {
             t.stopPropagation()
         }), window.addEventListener("scroll", function() {
