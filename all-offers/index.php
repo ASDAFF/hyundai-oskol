@@ -193,43 +193,6 @@ $APPLICATION->SetTitle("all-offers");
 
             <div class="offers_divider__content__offers-grid-section clearfix">
 
-                <?
-                if(CModule::IncludeModule("iblock")) {
-                    $arSelect = Array("ID", "IBLOCK_ID", "NAME", "PREVIEW_PICTURE", "CODE", "PROPERTY_ENABLE_SPEC");
-                    $arFilter = Array("IBLOCK_ID" => 11, "SECTION_ID" => 16, "ACTIVE" => "Y");
-                    $res = CIBlockElement::GetList(Array(), $arFilter, false, false, $arSelect);
-                    while ($ob = $res->GetNextElement()) {
-                        $arFields = $ob->GetFields();
-                        $arProps = $ob->GetProperties();
-                        if($arProps['ENABLE_SPEC']['VALUE'] == 'Y'){
-                            ?>
-                            <div class="insection-offer-unit">
-                                <a href="<?= $arFields['CODE'] ?>" class="insection-offer-unit__link">
-                                    <img src="<?= CFile::GetPath($arFields['PREVIEW_PICTURE']); ?>" alt=""
-                                         class="insection-offer-unit__back-img">
-
-                                    <div class="insection-offer-unit__info">
-                                        <span class="name"><?= $arFields['NAME'] ?></span>
-                                        <span class="addinfo"></span>
-                                    </div>
-                                </a>
-                            </div>
-                            <?
-                        }
-                    }
-                }
-                ?>
-        <!--
-                <div class="insection-offer-unit">
-                    <a href="/promo/santafe_offer" class="insection-offer-unit__link">
-                        <img src="http://www.hyundai.ru/media/offers_image/af769b27850993d65279bf07a5090af2_santa-fe_tiser_465_330.jpg" alt="" class="insection-offer-unit__back-img">
-                        <div class="insection-offer-unit__info">
-                            <span class="name">Интересное предложение для владельцев<br> SantaFe!</span>
-                            <span class="addinfo"></span>
-                        </div>
-                    </a>
-                </div>
--->
                 <div class="insection-offer-unit">
                     <a href="/promo/shell" class="insection-offer-unit__link">
                         <img src="http://www.hyundai.ru/media/offers_image/dd77b6edbce77f33b7c4c23fd7d6e125_1920x530_Hyundai_Shell.jpg" alt="" class="insection-offer-unit__back-img">
@@ -270,6 +233,46 @@ $APPLICATION->SetTitle("all-offers");
                     </a>
                 </div>
             </div>
+
+            <!-- service stuff next -->
+            <!-- not fully offers -->
+
+            <!-- title -->
+            <a id="service-offers" style="padding-top: 30px;"></a>
+
+
+
+            <h2 class="offers_divider__content__title">Спецпредложения</h2>
+
+
+            <div class="offers_divider__content__offers-grid-section clearfix">
+
+                <?
+                if(CModule::IncludeModule("iblock")) {
+                    $arSelect = Array("ID", "IBLOCK_ID", "NAME", "PREVIEW_PICTURE", "CODE", "PROPERTY_ENABLE_SPEC");
+                    $arFilter = Array("IBLOCK_ID" => 11, "ACTIVE" => "Y");
+                    $res = CIBlockElement::GetList(Array(), $arFilter, false, false, $arSelect);
+                    while ($ob = $res->GetNextElement()) {
+                        $arFields = $ob->GetFields();
+                        $arProps = $ob->GetProperties();
+                            ?>
+                            <div class="insection-offer-unit">
+                                <a href="/offer-service/<?= $arFields['CODE'] ?>/" class="insection-offer-unit__link">
+                                    <img src="<?= CFile::GetPath($arFields['PREVIEW_PICTURE']); ?>" alt=""
+                                         class="insection-offer-unit__back-img">
+
+                                    <div class="insection-offer-unit__info">
+                                        <span class="name"><?= $arFields['NAME'] ?></span>
+                                        <span class="addinfo"></span>
+                                    </div>
+                                </a>
+                            </div>
+                            <?
+                    }
+                }
+                ?>
+            </div>
+
         </div>
 
         <!-- prefooter banners -->

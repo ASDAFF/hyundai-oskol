@@ -899,6 +899,16 @@ if(!empty($ar['IMG_SLIDE']) and $APPLICATION->GetCurPage() != '/'){
 <noscript><div><img src="https://mc.yandex.ru/watch/49096957" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
+<div class="svg-root" style="position: absolute; width: 0; height: 0; visibility: hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" display="none" aria-hidden="true">
+
+        <symbol id="ic-arrow-s" viewbox="0 0 14.172 11.732">
+            <title>Arrow small</title>
+            <polygon fill-rule="evenodd" clip-rule="evenodd" points="8.325,0 7.675,0.759 12.27,5.379 0,5.379 0,6.379 12.27,6.379 7.646,11.025 8.354,11.732 14.172,5.879 "/>
+        </symbol>
+
+    </svg>
+</div>
 </body>
     
 </html>

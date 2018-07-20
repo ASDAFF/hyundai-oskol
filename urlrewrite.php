@@ -25,12 +25,6 @@ $arUrlRewrite = array(
 		"PATH" => "/contacts/index.php",
 	),
 	array(
-		"CONDITION" => "#^/service/#",
-		"RULE" => "",
-		"ID" => "bitrix:news",
-		"PATH" => "/service/index.php",
-	),
-	array(
 		"CONDITION" => "#^/offer/#",
 		"RULE" => "",
 		"ID" => "bitrix:news",
@@ -41,6 +35,12 @@ $arUrlRewrite = array(
 		"RULE" => "",
 		"ID" => "bitrix:news",
 		"PATH" => "/news/index.php",
+	),
+	array(
+		"CONDITION" => "#^/offer-service/(.*?)/#",
+		"RULE" => "ELEMENT_CODE=\$1",
+		"ID" => "bitrix:news.detail",
+		"PATH" => "/offer-service/index.php",
 	),
 );
 
