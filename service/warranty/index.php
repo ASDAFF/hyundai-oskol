@@ -37,7 +37,7 @@ $APPLICATION->SetTitle("Гарантия");
                                     <div class="wrrnty-p__years-milage">100 000</div>
                                     <div class="wrrnty-p__years-milage-sup-sub">Км пробега</div>
                                 </div>
-                                <div class="warranty-info-image"><img src="/media/img/service-pages/warranty-info-image-1.jpg" class="warranty-info-img" alt=""/></div>
+                                <div class="warranty-info-image"><img src="http://hyundai.ru/media/img/service-pages/warranty-info-image-1.jpg" class="warranty-info-img" alt=""/></div>
                             </div>
                             <div class="warranty-info-block grid-el grid-el-50">
                                 <div class="warranty-info-heading">двигатель и коробка передач</div>
@@ -48,7 +48,7 @@ $APPLICATION->SetTitle("Гарантия");
                                     <div class="wrrnty-p__years-milage">120 000</div>
                                     <div class="wrrnty-p__years-milage-sup-sub">Км пробега</div>
                                 </div>
-                                <div class="warranty-info-image"><img src="/media/img/service-pages/warranty-info-image-2.png" class="warranty-info-img" alt=""/></div>
+                                <div class="warranty-info-image"><img src="http://hyundai.ru/media/img/service-pages/warranty-info-image-2.png" class="warranty-info-img" alt=""/></div>
                             </div>
                         </div>
                     </div>
