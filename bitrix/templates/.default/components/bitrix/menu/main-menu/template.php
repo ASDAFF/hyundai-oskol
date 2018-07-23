@@ -27,6 +27,16 @@
 					<li class="main-nav__item main-nav__item--has-submenu">
 						<span class="main-nav__link" data-role="n-submenu-link">N</span>
 					</li>
+					<li class="main-nav__item main-nav__item--has-submenu">
+						<span class="main-nav__link" data-role="service-submenu-link">Сервис</span>
+					</li>
+					<li class="main-nav__item">
+						<a href="/hpromise/" target="_blank" class="main-nav__link">С пробегом</a>
+					</li>
+
+					<li class="main-nav__item">
+						<a href="/all-offers/" class="main-nav__link">Cпецпредложения</a>
+					</li>
 
 					<? if(SITE_ID == "s1" OR SITE_ID == "s2" OR SITE_ID == "s5"): ?>
 					<li class="main-nav__item">
@@ -34,15 +44,6 @@
 					</li>
 					<? endif;?>
 
-					<li class="main-nav__item">
-						<a href="/all-offers/" class="main-nav__link">Cпецпредложения</a>
-					</li>
-					<li class="main-nav__item">
-						<a href="/hpromise/" target="_blank" class="main-nav__link">С пробегом</a>
-					</li>
-					<li class="main-nav__item main-nav__item--has-submenu">
-						<span class="main-nav__link" data-role="service-submenu-link">Сервис</span>
-					</li>
 					<li class="main-nav__item">
 						<a href="/contacts/" class="main-nav__link">Контакты</a>
 					</li>
