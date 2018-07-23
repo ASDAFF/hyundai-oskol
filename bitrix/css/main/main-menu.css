@@ -234,7 +234,7 @@
     top: 0;
     left: 0;
     right: 0;
-    height: 175px;
+    height: 175px!important;
     -webkit-transform: translate(0, -100%);
     -ms-transform: translate(0, -100%);
     transform: translate(0, -100%);
