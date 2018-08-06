@@ -76,13 +76,15 @@ $APPLICATION->SetTitle("Creta");
                                             <? profit_to_url($APPLICATION->GetCurPage()); ?> <br>
                                         </div>
 
-                                        <?
-                                        model_credit(
-                                            array(
-                                                array("val" => "9.9% ","text" => "кредит*"),
-                                            )
-                                        );
-                                        ?>
+                                        <div class="blue-block clearfix">
+                                            <div class="blue-block-content">
+                                                <div class="blue-block-row" style="border-bottom: 0px !important;">
+                                                    <span class="blue-block-val">9.9%</span>
+                                                    <span class="blue-block-text">кредит<sup>*</sup></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <br clear="all"/>
 
                                         <div class="title-list">
                                             <ul>
