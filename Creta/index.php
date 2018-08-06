@@ -79,8 +79,7 @@ $APPLICATION->SetTitle("Creta");
                                         <?
                                         model_credit(
                                             array(
-                                                array("val" => "5% ","text" => "кредит*"),
-                                                array("text" => "<b>КАСКО</b> в подарок**")
+                                                array("val" => "9.9% ","text" => "кредит*"),
                                             )
                                         );
                                         ?>
