@@ -434,7 +434,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                             <?
                                             model_credit(
                                                 array(
-                                                    array("val" => "5%","text" => "кредит**"),
+                                                    array("val" => "6.9%","text" => "кредит**"),
                                                     array("text" => "<b>КАСКО</b> в подарок***")
                                                 )
                                             );

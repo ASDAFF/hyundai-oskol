@@ -204,6 +204,16 @@ $APPLICATION->SetTitle("all-offers");
                 </div>
 
                 <div class="insection-offer-unit">
+                    <a href="/promo/santafe_offer/" class="insection-offer-unit__link">
+                        <img src="http://www.hyundai.ru/media/offers_image/af769b27850993d65279bf07a5090af2_santa-fe_tiser_465_330.jpg" alt="" class="insection-offer-unit__back-img">
+                        <div class="insection-offer-unit__info">
+                            <span class="name">Интересное предложение для владельцев SantaFe!</span>
+                            <span class="addinfo"></span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="insection-offer-unit">
                     <a href="/promo/parts/" class="insection-offer-unit__link">
                         <img src="/media/offers_image/ed4e-4f2a-92e3-a6a74829070d.jpg" alt="" class="insection-offer-unit__back-img">
                         <div class="insection-offer-unit__info">

@@ -47,6 +47,7 @@ d.addEventListener("DOMContentLoaded", f, false);
 </script>
 <noscript><div><img src="//mc.yandex.ru/watch/16112620" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
 (function (d, w, c) {
