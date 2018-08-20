@@ -56,15 +56,16 @@ $APPLICATION->SetTitle("Тест-драйв");
 			<div class="info-gather__col info-gather__col__dealer fleft">
 				<h2 class="info-gather__col__title">Выбор дилера</h2>
 				<div class="dealercitylistdropdown">
-					<div class="city">Воронеж</div>
+					<div class="city">Старый Оскол</div>
 				</div>
 				<div class="dealerlistdropdown">
 					<div id="dropdown-dealerlisting" class="dealer__location-dropdown drop-it-down" tabindex="0">
-						<ul class="dropdown-list first"><li	 data-value="" class="dropdown-item first">Ринг Авто (левый берег)</li></ul>
+						<ul class="dropdown-list first">
+							<li	 data-value="" class="dropdown-item first">Ринг Авто Оскол</li>
+						</ul>
 						<div class="nano">
 							<ul class="dropdown-list nano-content">
-								<li class="dropdown-item active" data-value="Ринг Авто (левый берег)">Ринг Авто (левый берег)</li>
-								<li class="dropdown-item" data-value="Ринг Авто (напротив сити-парка Град)">Ринг Авто (напротив сити-парка Град)</li>
+								<li class="dropdown-item active" data-value="Ринг Авто Оскол">Ринг Авто Оскол</li>
 							</ul>
 						</div>
 					</div>
