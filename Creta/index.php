@@ -32,6 +32,12 @@ $APPLICATION->SetTitle("Creta");
             body.mobile .parallax5 {background:url('http://www.hyundai.ru/media/images/flat/CR/elements/parallax_6.jpg') center top no-repeat #fff;}
         </style>
 
+        <div class="roadside24">
+            <a href="/service/roadside-assistance" target="_blank">
+                <img src="https://www.hyundai.ru/media/img/na-svyazi.svg">
+            </a>
+        </div>
+
 
         <div class="wrap" id="wrap">
             <div class="gallery-view-wrap">

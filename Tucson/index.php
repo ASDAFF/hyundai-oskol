@@ -29,6 +29,11 @@ $APPLICATION->SetTitle("Tucson");
             body.mobile .parallax4 {background:url('/media/images/flat/TL/parallax4_mobile.jpg') center top no-repeat #fff;}
             body.mobile .parallax5 {background:url('/media/images/flat/TL/parallax5_mobile.jpg') center top no-repeat #fff;}
         </style>
+
+        <div class="roadside24">
+            <a href="/service/roadside-assistance" target="_blank"></a>
+        </div>
+
         <div style="display: none;">
             <img src="/media/images/flat/TL/performance_graph_1.gif">
             <img src="/media/images/flat/TL/performance_graph_1_text.png">
@@ -88,7 +93,7 @@ $APPLICATION->SetTitle("Tucson");
                                         <div class="blue-block clearfix">
                                             <div class="blue-block-content">
                                                 <div class="blue-block-row">
-                                                    <span class="blue-block-val">5%</span>
+                                                    <span class="blue-block-val">6.9%</span>
                                                     <span class="blue-block-text">кредит<sup>*</sup></span>
                                                 </div>
                                                 <div class="blue-block-row">

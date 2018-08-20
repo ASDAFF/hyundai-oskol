@@ -31,6 +31,10 @@ $APPLICATION->SetTitle("SantaFe");
             body.mobile .parallax5 {background:url('http://www.hyundai.ru/media/images/flat/SF/elements/parallax_6.jpg') center top no-repeat #fff;}
         </style>
 
+        <div class="roadside24">
+            <a href="/service/roadside-assistance" target="_blank"></a>
+        </div>
+
 
 
         <div class="wrap" id="wrap">
