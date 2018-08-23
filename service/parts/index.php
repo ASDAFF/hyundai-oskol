@@ -36,6 +36,8 @@ $APPLICATION->SetTitle("Оригинальные запасные части");
                                 <span class="s-anchor__text">Оптовые продажи ЗЧ</span>
                             </div>
                         </a>
+                        <br clear="all">
+                        <a href="https://www.hyundai.ru/media/downloads/mobis_zapchasty_final_160718.pdf" download="download" class="content-scroller content-scroller--bodywork" data-role="content-scroller" style="margin-top: 20px;"><i class="icon icon-dark icon-down"></i> Скачать каталог запчастей</a>
                     </div>
                 </div>
                 <div class="parts-views-wrapper" id="parts-views">
@@ -98,7 +100,7 @@ $APPLICATION->SetTitle("Оригинальные запасные части");
                                                 <p class="parts-slide-details__text parts-slide-details__plain">
                                                     Оригинальные тормозные колодки разрабатываются специальным исследовательским отделом в соответствии со&nbsp;строгими стандартами качества Hyundai для обеспечения максимально эффективного и&nbsp;безопасного торможения.
                                                 </p>
-                                                <div style="vertical-align: middle;"><img src="https://www.hyundai.ru/media/img/service-pages/pdf_icon.svg" style="margin-right: 10px; position: relative; top: 10px;" width="35"><a class="uline" href="/media/downloads/pdf/061-63Spreads.pdf" target="_blank">Обзор тормозных колодок для Solaris</a></div>
+                                                <div style="vertical-align: middle;"><img src="https://www.hyundai.ru/media/img/service-pages/pdf_icon.svg" style="margin-right: 10px; position: relative; top: 10px;" width="35"><a class="uline" href="https://www.hyundai.ru/media/downloads/pdf/061-63Spreads.pdf" target="_blank">Обзор тормозных колодок для Solaris</a></div>
                                             </div>
                                             <div class="parts-slide-details__col">
                                                 <ul class="parts-slide-details__text parts-slide-details__list">
