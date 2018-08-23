@@ -1,3 +1,29 @@
+/**
+ * jQuery-viewport-checker - v1.8.7 - 2015-12-17
+ * https://github.com/dirkgroenen/jQuery-viewport-checker
+ *
+ * Copyright (c) 2015 Dirk Groenen
+ * Licensed MIT <https://github.com/dirkgroenen/jQuery-viewport-checker/blob/master/LICENSE>
+ */
+
+(function($){$.fn.viewportChecker=function(useroptions){var options={classToAdd:'visible',classToRemove:'invisible',classToAddForFullView:'full-visible',removeClassAfterAnimation:false,offset:100,repeat:false,invertBottomOffset:true,callbackFunction:function(elem,action){},scrollHorizontal:false,scrollBox:window};$.extend(options,useroptions);var $elem=this,boxSize={height:$(options.scrollBox).height(),width:$(options.scrollBox).width()};this.checkElements=function(){var viewportStart,viewportEnd;if(!options.scrollHorizontal){viewportStart=Math.max($('html').scrollTop(),$('body').scrollTop(),$(window).scrollTop());viewportEnd=(viewportStart+boxSize.height);}
+else{viewportStart=Math.max($('html').scrollLeft(),$('body').scrollLeft(),$(window).scrollLeft());viewportEnd=(viewportStart+boxSize.width);}
+	$elem.each(function(){var $obj=$(this),objOptions={},attrOptions={};if($obj.data('vp-add-class'))
+		attrOptions.classToAdd=$obj.data('vp-add-class');if($obj.data('vp-remove-class'))
+		attrOptions.classToRemove=$obj.data('vp-remove-class');if($obj.data('vp-add-class-full-view'))
+		attrOptions.classToAddForFullView=$obj.data('vp-add-class-full-view');if($obj.data('vp-keep-add-class'))
+		attrOptions.removeClassAfterAnimation=$obj.data('vp-remove-after-animation');if($obj.data('vp-offset'))
+		attrOptions.offset=$obj.data('vp-offset');if($obj.data('vp-repeat'))
+		attrOptions.repeat=$obj.data('vp-repeat');if($obj.data('vp-scrollHorizontal'))
+		attrOptions.scrollHorizontal=$obj.data('vp-scrollHorizontal');if($obj.data('vp-invertBottomOffset'))
+		attrOptions.scrollHorizontal=$obj.data('vp-invertBottomOffset');$.extend(objOptions,options);$.extend(objOptions,attrOptions);if($obj.data('vp-animated')&&!objOptions.repeat){return;}
+		if(String(objOptions.offset).indexOf("%")>0)
+			objOptions.offset=(parseInt(objOptions.offset)/100)*boxSize.height;var rawStart=(!objOptions.scrollHorizontal)?$obj.offset().top:$obj.offset().left,rawEnd=(!objOptions.scrollHorizontal)?rawStart+$obj.height():rawStart+$obj.width();var elemStart=Math.round(rawStart)+objOptions.offset,elemEnd=(!objOptions.scrollHorizontal)?elemStart+$obj.height():elemStart+$obj.width();if(objOptions.invertBottomOffset)
+			elemEnd-=(objOptions.offset*2);if((elemStart<viewportEnd)&&(elemEnd>viewportStart)){$obj.removeClass(objOptions.classToRemove);$obj.addClass(objOptions.classToAdd);objOptions.callbackFunction($obj,"add");if(rawEnd<=viewportEnd&&rawStart>=viewportStart)
+			$obj.addClass(objOptions.classToAddForFullView);else
+			$obj.removeClass(objOptions.classToAddForFullView);$obj.data('vp-animated',true);if(objOptions.removeClassAfterAnimation){$obj.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',function(){$obj.removeClass(objOptions.classToAdd);});}}else if($obj.hasClass(objOptions.classToAdd)&&(objOptions.repeat)){$obj.removeClass(objOptions.classToAdd+" "+objOptions.classToAddForFullView);objOptions.callbackFunction($obj,"remove");$obj.data('vp-animated',false);}});};if('ontouchstart'in window||'onmsgesturechange'in window){$(document).bind("touchmove MSPointerMove pointermove",this.checkElements);}
+	$(options.scrollBox).bind("load scroll",this.checkElements);$(window).resize(function(e){boxSize={height:$(options.scrollBox).height(),width:$(options.scrollBox).width()};$elem.checkElements();});this.checkElements();return this;};})(jQuery);
+
 $(document).ready(function() {
 	var classes = {
 		faq: {
@@ -67,11 +93,11 @@ $(document).ready(function() {
 				case 6: return 42; // i40
 				case 5: return 41; // i40 wagon
 				case 18: return 46; // Tucson
-				case 22: return 39; // Creta
-				case 17: return 47; // Santa Fe
+				case 22: return 42; // Creta
+				case 17: return 48; // Santa Fe
 				case 13: return 46; // Grand Santa Fe
-				case 23: return 37; // New Solaris
-				case 24: return 44; // New Solaris
+				case 23: return 39; // New Solaris
+				case 24: return 45; // New Solaris
 			}
 
 			return 35;
@@ -874,15 +900,6 @@ $(function(){
 		startcreditModal.show();
 	});
 
-})
+});
 
-/**
- * jQuery-viewport-checker - v1.8.7 - 2015-12-17
- * https://github.com/dirkgroenen/jQuery-viewport-checker
- *
- * Copyright (c) 2015 Dirk Groenen
- * Licensed MIT <https://github.com/dirkgroenen/jQuery-viewport-checker/blob/master/LICENSE>
- */
 
-!function(a){a.fn.viewportChecker=function(b){var c={classToAdd:"visible",classToRemove:"invisible",classToAddForFullView:"full-visible",removeClassAfterAnimation:!1,offset:100,repeat:!1,invertBottomOffset:!0,callbackFunction:function(a,b){},scrollHorizontal:!1,scrollBox:window};a.extend(c,b);var d=this,e={height:a(c.scrollBox).height(),width:a(c.scrollBox).width()},f=-1!=navigator.userAgent.toLowerCase().indexOf("webkit")||-1!=navigator.userAgent.toLowerCase().indexOf("windows phone")?"body":"html";return this.checkElements=function(){var b,g;c.scrollHorizontal?(b=a(f).scrollLeft(),g=b+e.width):(b=a(f).scrollTop(),g=b+e.height),d.each(function(){var d=a(this),f={},h={};if(d.data("vp-add-class")&&(h.classToAdd=d.data("vp-add-class")),d.data("vp-remove-class")&&(h.classToRemove=d.data("vp-remove-class")),d.data("vp-add-class-full-view")&&(h.classToAddForFullView=d.data("vp-add-class-full-view")),d.data("vp-keep-add-class")&&(h.removeClassAfterAnimation=d.data("vp-remove-after-animation")),d.data("vp-offset")&&(h.offset=d.data("vp-offset")),d.data("vp-repeat")&&(h.repeat=d.data("vp-repeat")),d.data("vp-scrollHorizontal")&&(h.scrollHorizontal=d.data("vp-scrollHorizontal")),d.data("vp-invertBottomOffset")&&(h.scrollHorizontal=d.data("vp-invertBottomOffset")),a.extend(f,c),a.extend(f,h),!d.data("vp-animated")||f.repeat){String(f.offset).indexOf("%")>0&&(f.offset=parseInt(f.offset)/100*e.height);var i=f.scrollHorizontal?d.offset().left:d.offset().top,j=f.scrollHorizontal?i+d.width():i+d.height(),k=Math.round(i)+f.offset,l=f.scrollHorizontal?k+d.width():k+d.height();f.invertBottomOffset&&(l-=2*f.offset),g>k&&l>b?(d.removeClass(f.classToRemove),d.addClass(f.classToAdd),f.callbackFunction(d,"add"),g>=j&&i>=b?d.addClass(f.classToAddForFullView):d.removeClass(f.classToAddForFullView),d.data("vp-animated",!0),f.removeClassAfterAnimation&&d.one("webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend",function(){d.removeClass(f.classToAdd)})):d.hasClass(f.classToAdd)&&f.repeat&&(d.removeClass(f.classToAdd+" "+f.classToAddForFullView),f.callbackFunction(d,"remove"),d.data("vp-animated",!1))}})},("ontouchstart"in window||"onmsgesturechange"in window)&&a(document).bind("touchmove MSPointerMove pointermove",this.checkElements),a(c.scrollBox).bind("load scroll",this.checkElements),a(window).resize(function(b){e={height:a(c.scrollBox).height(),width:a(c.scrollBox).width()},d.checkElements()}),this.checkElements(),this}}(jQuery);
-//# sourceMappingURL=jquery.viewportchecker.min.js.map
