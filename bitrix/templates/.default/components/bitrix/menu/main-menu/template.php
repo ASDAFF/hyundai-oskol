@@ -106,8 +106,11 @@
 							<div class="showroom__cat-items">
 								<a href="/i30N/" class="showroom__cat-item" title="i30N">
 									<span class="showroom__cat-item-name">i30N</span>
-
 									<img src="<?=SITE_TEMPLATE_PATH?>/media/car/I30.png" class="showroom__cat-item-image" alt="i30N"/>
+								</a>
+								<a href="/Veloster-N/" class="showroom__cat-item" title="Veloster N">
+									<span class="showroom__cat-item-name">Veloster N</span>
+									<img src="<?=SITE_TEMPLATE_PATH?>/media/car/veloster_2.png" class="showroom__cat-item-image" alt="Veloster N"/>
 								</a>
 							</div>
 						</li>
