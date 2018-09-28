@@ -21,7 +21,6 @@
 
 
 	<link href="<?=SITE_TEMPLATE_PATH?>/css/style.css" rel="stylesheet" />
-
 	<link type="text/css" href="<?=SITE_TEMPLATE_PATH?>/css/main.css" rel="stylesheet" />
 	<link type="text/css" href="<?=SITE_TEMPLATE_PATH?>/css/css_style_ru.css" rel="stylesheet" />
 
@@ -37,6 +36,7 @@
 	<link href="<?=SITE_TEMPLATE_PATH?>/css/mobile.css" rel="stylesheet" />
 
 	<link href="/bitrix/css/main/main-menu.css" rel="stylesheet" type="text/css">
+
 
 	<script src="<?=SITE_TEMPLATE_PATH?>/js/jquerymin.js"></script>
 	<script src="<?=SITE_TEMPLATE_PATH?>/js/jquery-ui.min.js"></script>
