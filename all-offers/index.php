@@ -2,7 +2,6 @@
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("all-offers");
 ?>
-
     <div class="offers__main offers-divider">
         <div class="offers__container offers_divider__content clearfix">
 
@@ -172,10 +171,19 @@ $APPLICATION->SetTitle("all-offers");
 
             <h2 class="offers_divider__content__title">Сервисные программы</h2>
 
-
             <div class="offers_divider__content__offers-grid-section clearfix">
 
-                <div class="insection-offer-unit">
+<div class="insection-offer-unit">
+							<a href="/promo/autumn" class="insection-offer-unit__link">
+								<img src="http://www.hyundai.ru/media/offers_image/766be949ba7a5f92fc74d6e23aca1ed7_Hyundai_Shell_aug_1500x545.jpg" alt="" class="insection-offer-unit__back-img">
+								<div class="insection-offer-unit__info">
+									<span class="name">Бесплатная диагностика + 1 литр масла в подарок</span>
+	 								<span class="addinfo"></span>
+								</div>
+							</a>
+						</div>
+
+<!--                 <div class="insection-offer-unit">
                     <a href="/promo/shell" class="insection-offer-unit__link">
                         <img src="http://www.hyundai.ru/media/offers_image/dd77b6edbce77f33b7c4c23fd7d6e125_1920x530_Hyundai_Shell.jpg" alt="" class="insection-offer-unit__back-img">
                         <div class="insection-offer-unit__info">
@@ -183,7 +191,7 @@ $APPLICATION->SetTitle("all-offers");
                             <span class="addinfo"></span>
                         </div>
                     </a>
-                </div>
+                </div> -->
 
                 <div class="insection-offer-unit">
                     <a href="/promo/santafe_offer/" class="insection-offer-unit__link">
@@ -215,7 +223,7 @@ $APPLICATION->SetTitle("all-offers");
                     </a>
                 </div>
 
-                <div class="insection-offer-unit">
+<!--                 <div class="insection-offer-unit">
                     <a href="/promo/season/" class="insection-offer-unit__link">
                         <img src="http://www.hyundai.ru/media/offers_image/2d1d0ce07c4559f2076b1f4ca92cb81e_465х330_FIFA2108_banner.jpg" alt="" class="insection-offer-unit__back-img">
                         <div class="insection-offer-unit__info">
@@ -223,7 +231,7 @@ $APPLICATION->SetTitle("all-offers");
                             <span class="addinfo"></span>
                         </div>
                     </a>
-                </div>
+                </div> -->
             </div>
 
             <!-- service stuff next -->

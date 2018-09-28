@@ -10,7 +10,6 @@ $APPLICATION->SetTitle("NewSolaris");
 
 
 
-
     <!-- <link rel="stylesheet" type="text/css" href="/media/css_new/pip_flat_spritespin.css"/> -->
 
 
@@ -326,7 +325,7 @@ $APPLICATION->SetTitle("NewSolaris");
             </div>
             <div class="videoPopup">
                 <div class="videoContainer">
-                    <a class="closeButton" href="#" title="Закрыть">&times;</a>
+                    <a class="closeButton" href="#" title="Закрыть">×</a>
                     <iframe class="videoFrame" width="100%" height="" src="" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
@@ -540,7 +539,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                             <a href="http://www.hyundai.ru/configurator" target="_blank" class="configurator-link">
                                                 <div class="configurator-link-text">
                                                     <span class="configurator-price-val"><? price_to_url($APPLICATION->GetCurPage()); ?></span>
-                                                    <span class="configurator-credit">В кредит от <span class="configurator-credit-val">6000</span> &#8381; в месяц</span>
+                                                    <span class="configurator-credit">В кредит от <span class="configurator-credit-val">6000</span> ₽ в месяц</span>
                                                 </div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" class="svg corner-right-light"><use xlink:href="#light"></use></svg>
                                             </a>
@@ -601,7 +600,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                             <div class="pip-specs-el">
                                                 <span class="pip-specs-name">снаряженная масса</span>
                                                 <span class="pip-specs-val">1158 кг</span>
-                                                <!-- 									<span class="pip-specs-changes">&ndash; 10 кг</span> -->
+                                                <!-- 									<span class="pip-specs-changes">– 10 кг</span> -->
                                             </div>
                                             <div class="pip-specs-el">
                                                 <span class="pip-specs-name">объем двигателя</span>
@@ -623,7 +622,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                             <div class="pip-specs-el">
                                                 <span class="pip-specs-name">расход на 100 км</span>
                                                 <span class="pip-specs-val">4.8 л</span>
-                                                <span class="pip-specs-changes">&ndash; 1.1 л</span>
+                                                <span class="pip-specs-changes">– 1.1 л</span>
                                             </div>
                                             <div class="pip-specs-el">
                                                 <span class="pip-specs-name">макс. скорость</span>
@@ -784,7 +783,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                                         <img src="http://www.hyundai.ru/media/images/flat/SL2017/elements/exterior_3.jpg" class="pluser-img" alt=""/>
                                                     </div>
                                                     <div class="pluser-text-area">
-                                                        <strong class="pluser-text-title">Светодиодные дневные ходовые&nbsp;огни</strong>
+                                                        <strong class="pluser-text-title">Светодиодные дневные ходовые огни</strong>
                                                         Светодиодные ходовые огни помогают новому Solaris соответствовать стилю современного мегаполиса.
                                                     </div>
                                                 </div>
@@ -795,7 +794,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                                         <img src="http://www.hyundai.ru/media/images/flat/SL2017/elements/exterior_4.jpg" class="pluser-img" alt=""/>
                                                     </div>
                                                     <div class="pluser-text-area">
-                                                        <strong class="pluser-text-title">Зеркала с повторителями указателей&nbsp;поворота</strong>
+                                                        <strong class="pluser-text-title">Зеркала с повторителями указателей поворота</strong>
                                                         Большие зеркала заднего вида с повторителями поворотников обеспечивают великолепный обзор в Hyundai Solaris и дополнительную безопасность при маневре.
                                                     </div>
                                                 </div>
@@ -924,7 +923,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                                         <img src="http://www.hyundai.ru/media/images/flat/SL2017/elements/interior_7.jpg" class="pluser-img" alt=""/>
                                                     </div>
                                                     <div class="pluser-text-area">
-                                                        <strong class="pluser-text-title">Мультимедиа-система с&nbsp;экраном 7″</strong>
+                                                        <strong class="pluser-text-title">Мультимедиа-система с экраном 7″</strong>
                                                         Современная мультимедиа система с 7 экраном поддерживает мобильные интерфейсы Apple CarPlay* и Android Auto**, что предоставляет совершенно новый уровень взаимодействия с автомобилем.
                                                         <span class="notice-w-ic">* Apple CarPlay™ (Эппл карплей) – торговая марка, принадлежащая компании Apple Inc.</span>
                                                         <span class="notice-w-ic">** Android Auto™ (Андроид Авто) - торговая марка, принадлежащая компании Google Inc.</span>
@@ -1002,7 +1001,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                                     <div class="pluser-text-area">
                                                         <strong class="pluser-text-title">Автоматическая коробка передач</strong>
                                                         6-ступенчатая АКПП наделяет Hyundai Solaris
-                                                        плавностью переключения и&nbsp;комфортом в&nbsp;движении.
+                                                        плавностью переключения и комфортом в движении.
                                                     </div>
                                                 </div>
                                             </div>
@@ -1014,7 +1013,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                                     <div class="pluser-text-area">
                                                         <strong class="pluser-text-title">Механическая коробка передач</strong>
                                                         6-ступенчатая МКПП обеспечит экономичную
-                                                        и&nbsp;динамичную езду.
+                                                        и динамичную езду.
                                                     </div>
                                                 </div>
                                             </div>
@@ -1100,7 +1099,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                             <div class="convience-popup" data-for="1">
                                                 <div class="convience-popup-inner">
                                                     <img src="http://www.hyundai.ru/media/images/flat/SL2017/elements/convenience_1.png" class="convience-popup-img" alt=""/>
-                                                    <div class="convience-popup-title">Система помощи при&nbsp;парковке</div>
+                                                    <div class="convience-popup-title">Система помощи при парковке</div>
                                                     <button class="more-button"><svg xmlns="http://www.w3.org/2000/svg" class="svg"><use xlink:href="#plus"></use></svg></button>
                                                 </div>
                                             </div>
@@ -1116,7 +1115,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                             <div class="convience-popup" data-for="3">
                                                 <div class="convience-popup-inner">
                                                     <img src="http://www.hyundai.ru/media/images/flat/SL2017/elements/convenience_3.jpg" class="convience-popup-img" alt=""/>
-                                                    <div class="convience-popup-title">Все управление на&nbsp;руле</div>
+                                                    <div class="convience-popup-title">Все управление на руле</div>
                                                     <button class="more-button"><svg xmlns="http://www.w3.org/2000/svg" class="svg"><use xlink:href="#plus"></use></svg></button>
                                                 </div>
                                             </div>
@@ -1130,7 +1129,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                                         <img src="http://www.hyundai.ru/media/images/flat/SL2017/elements/convenience_popup_1.jpg" class="pluser-img" alt=""/>
                                                     </div>
                                                     <div class="pluser-text-area">
-                                                        <strong class="pluser-text-title">Система помощи при&nbsp;парковке</strong>
+                                                        <strong class="pluser-text-title">Система помощи при парковке</strong>
                                                         Изображение с камеры заднего вида транслируется на большой дисплей центральной консоли, а динамичная разметка на мониторе поможет с легкостью рассчитать траекторию движения автомобиля.
                                                     </div>
                                                 </div>
@@ -1154,7 +1153,7 @@ $APPLICATION->SetTitle("NewSolaris");
                                                         <img src="http://www.hyundai.ru/media/images/flat/SL2017/elements/convenience_popup_3.jpg" class="pluser-img" alt=""/>
                                                     </div>
                                                     <div class="pluser-text-area">
-                                                        <strong class="pluser-text-title">Многофункциональное рулевое&nbsp;колесо</strong>
+                                                        <strong class="pluser-text-title">Многофункциональное рулевое колесо</strong>
                                                         Покрытое мягкой кожей многофункциональное рулевое колесо позволяет вам держать все под контролем.
                                                     </div>
                                                 </div>
@@ -1499,9 +1498,9 @@ $APPLICATION->SetTitle("NewSolaris");
                             </div>
                             <div class="spec_message">
                                 <div>
-                                    <span class="add-blue-color">*</span> &mdash; Данные по максимальной мощности двигателя и крутящему моменту приведены согласно Одобрению типа транспортного средства<br>
-                                    <span class="add-blue-color">**</span> &mdash; Показатели расхода топлива и массы выделяемого CO2 представлены согласно методике испытаний по Правилам ЕЭК ООН №83 и 101<br>
-                                    <span class="add-blue-color">***</span> &mdash; Согласно сертификату соответствия по Директиве ЕС 92/21/EEC представлено значение межосевого дорожного просвета<br>
+                                    <span class="add-blue-color">*</span> — Данные по максимальной мощности двигателя и крутящему моменту приведены согласно Одобрению типа транспортного средства<br>
+                                    <span class="add-blue-color">**</span> — Показатели расхода топлива и массы выделяемого CO2 представлены согласно методике испытаний по Правилам ЕЭК ООН №83 и 101<br>
+                                    <span class="add-blue-color">***</span> — Согласно сертификату соответствия по Директиве ЕС 92/21/EEC представлено значение межосевого дорожного просвета<br>
                                 </div>
                             </div>
                         </div>
@@ -1579,13 +1578,15 @@ $APPLICATION->SetTitle("NewSolaris");
                                 <li class="prefooter-l-i"><a href="http://www.hyundai.ru/media/downloads/pdf/Solaris_acc_2017_final.pdf" class="prefooter-l-l"><img class="svg" src="accessory.png"/><span class="prefooter-l-t">Каталог аксессуаров</span></a></li>
                                 <li class="prefooter-l-i"><a href="http://www.hyundai.ru/configurator/car/23#calculator" target="_blank" class="prefooter-l-l"><svg xmlns="http://www.w3.org/2000/svg" class="svg"><use xlink:href="#ic-credit"></use></svg><span class="prefooter-l-t">Расчет кредита</span></a></li>
                             </ul>
-                            <p>*В 2017 году Новый Hyundai Solaris стал первым из 39 автомобилей, набрав 16 баллов из 16 возможных в рейтинге пассивной безопасности ARCAP (Autoreview Car Assessment Program – Программа оценки автомобилей «Авторевю»), опубликованном автомобильным изданием «Авторевю». ARCAP - рейтинг пассивной безопасности автомобилей при фронтальном ударе, составляемый автомобильным изданием «Авторевю» по итогам краш – теста по методике ARCAP. С подробным описанием целей и методики ARCAP и результатами предыдущих испытаний можно ознакомиться на сайте <a href="https://autoreview.ru/arcap/">www.autoreview.ru/arcap/</a></p><br>
                             <p>
-                                **5.0% годовых – процентная ставка в кредитном договоре. Валюта кредита - рубли РФ; уровень первоначального взноса от 30% от стоимости автомобиля. Срок кредита 12-36 месяцев. Программа распространяется на покупку в кредит Hyundai Solaris. Программой предусмотрено страхование жизни и здоровья заемщика. Минимальная сумма кредита – 50 000 руб., максимальная сумма кредита – 6 500 000 руб.. Обязательно подтверждение дохода клиента. Залоговое обеспечение - залог приобретаемого ТС. Обязательно оформление полиса КАСКО на весь срок кредита в страховых компаниях, соответствующих требованиям Банка. Кредит предоставляется ООО «Русфинанс Банк» Генеральная лицензия ЦБ РФ №1792 от 13.02.2013г. Предложение действует с 01.06.18 по 30.06.18, не является офертой. Условия могут быть изменены Банком в одностороннем порядке.
+*В 2017 году Новый Hyundai Solaris стал первым из 39 автомобилей, набрав 16 баллов из 16 возможных в рейтинге пассивной безопасности ARCAP (Autoreview Car Assessment Program – Программа оценки автомобилей «Авторевю»), опубликованном автомобильным изданием «Авторевю». ARCAP - рейтинг пассивной безопасности автомобилей при фронтальном ударе, составляемый автомобильным изданием «Авторевю» по итогам краш – теста по методике ARCAP. С подробным описанием целей и методики ARCAP и результатами предыдущих испытаний можно ознакомиться на сайте www.autoreview.ru/arcap/
+</p><br>
+                            <p>
+                              **6.9% годовых – процентная ставка в кредитном договоре. Валюта кредита - рубли РФ; уровень первоначального взноса от 30% от стоимости автомобиля. Срок кредита 12-36 месяцев. Программа распространяется на покупку в кредит Hyundai Solaris. Программой предусмотрено страхование жизни и здоровья заемщика. Минимальная сумма кредита – 50 000 руб., максимальная сумма кредита – 6 500 000 руб.. Обязательно подтверждение дохода клиента. Залоговое обеспечение - залог приобретаемого ТС. Обязательно оформление полиса КАСКО на весь срок кредита в страховых компаниях, соответствующих требованиям Банка. Кредит предоставляется ООО «Русфинанс Банк» Генеральная лицензия ЦБ РФ №1792 от 13.02.2013г. Предложение действует с 01.08.18 по 31.08.18, не является офертой. Условия могут быть изменены Банком в одностороннем порядке.
                             </p><br/>
 
                             <p>
-                                ***Полис КАСКО на безвозмездной основе оформляется на срок 1 (один) год в САО «ВСК» при покупке нового Hyundai Solaris в кредит по программе СТАРТ. Указанная информация носит справочный характер и не является публичной офертой. Условия и тарифы могут быть изменены САО «ВСК» в одностороннем порядке. Предложение действует до 30.06.2018г.
+                                ***Полис КАСКО на безвозмездной основе оформляется на срок 1 (один) год в САО «ВСК» при покупке нового Hyundai Solaris в кредит по программе СТАРТ. Указанная информация носит справочный характер и не является публичной офертой. Условия и тарифы могут быть изменены САО «ВСК» в одностороннем порядке. Предложение действует до 31.08.2018г.
                             </p><br/>
                         </div>
                     </div>

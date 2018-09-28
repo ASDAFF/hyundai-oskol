@@ -24,9 +24,7 @@
 					<li class="main-nav__item main-nav__item--has-submenu">
 						<span class="main-nav__link" data-role="showroom-submenu-link">Модельный ряд</span>
 					</li>
-					<li class="main-nav__item main-nav__item--has-submenu">
-						<span class="main-nav__link" data-role="n-submenu-link">N</span>
-					</li>
+
 					<li class="main-nav__item main-nav__item--has-submenu">
 						<span class="main-nav__link" data-role="service-submenu-link">Сервис</span>
 					</li>
@@ -37,7 +35,9 @@
 					<li class="main-nav__item">
 						<a href="/all-offers/" class="main-nav__link">Cпецпредложения</a>
 					</li>
-
+					<li class="main-nav__item main-nav__item--has-submenu">
+						<span class="main-nav__link" data-role="n-submenu-link">Бренд</span>
+					</li>
 					<? if(SITE_ID == "s1" OR SITE_ID == "s2" OR SITE_ID == "s5"): ?>
 					<li class="main-nav__item">
 						<a href="/offer/" class="main-nav__link">Авто в наличии</a>
@@ -97,7 +97,7 @@
 					<button class="submenu-close"></button>
 				</div>
 			</div>
-
+<!--
 			<div class="submenu" data-role="n-submenu">
 				<div class="submenu-content">
 					<ul class="showroom">
@@ -118,7 +118,72 @@
 					<button class="submenu-close"><svg xmlns="http://www.w3.org/2000/svg" class="ic-svg"><use xlink:href="#ic-close-sm"></use></svg></button>
 				</div>
 			</div>
+-->
+			<div class="submenu" data-role="n-submenu">
+				<div class="submenu-content">
+					<ul class="service-submenu">
+						<li class="service-submenu__cat">
+							<strong class="service-submenu__cat-title">О компании</strong>
+							<ul class="service-submenu__cat-items">
+								<li class="service-submenu__item">
+									<a href="/AboutUs" class="service-submenu__link">Хендэ Мотор СНГ</a>
+								</li>
+								<li class="service-submenu__item">
+									<a href="/XMMP" class="service-submenu__link">Завод ХММР</a>
+								</li>
+								<li class="service-submenu__item">
+									<a href="/news" class="service-submenu__link">Пресс-центр</a>
+								</li>
+								<li class="service-submenu__item">
+									<a href="/IntroductoryRemarks" class="service-submenu__link">Социальная ответственность</a>
+								</li>
+							</ul>
+						</li>
+						<li class="service-submenu__cat">
+							<strong class="service-submenu__cat-title">Инновации</strong>
+							<ul class="service-submenu__cat-items">
+								<li class="service-submenu__item">
+									<a href="/ioniq" class="service-submenu__link">Ioniq</a>
+								</li>
+								<li class="service-submenu__item">
+									<a href="/Nexo" class="service-submenu__link" target="_blank">Nexo</a>
+								</li>
+							</ul>
+						</li>
+						<li class="service-submenu__cat">
+							<strong class="service-submenu__cat-title">N</strong>
+							<ul class="service-submenu__cat-items">
+								<li class="service-submenu__item">
+									<a href="/i30N/" class="service-submenu__link">i30N</a>
+								</li>
+								<li class="service-submenu__item">
+									<a href="/Veloster-N/" class="service-submenu__link">Veloster N</a>
+								</li>
+							</ul>
+						</li>
+						<li class="service-submenu__cat">
+							<strong class="service-submenu__cat-title">В мире</strong>
+							<ul class="service-submenu__cat-items">
+								<li class="service-submenu__item">
+									<a href="http://worldwide.hyundai.com/" class="service-submenu__link" target="_blank">Международный сайт</a>
+								</li>
+								<li class="service-submenu__item">
+									<a href="https://motorsport.hyundai.com/" class="service-submenu__link" target="_blank">Motorsport</a>
+								</li>
 
+								<li class="service-submenu__item">
+									<a href="https://www.hyundai.com/worldwide/en/global-hyundai/hyundai-tv" class="service-submenu__link" target="_blank">Hyundai TV</a>
+								</li>
+								<li class="service-submenu__item">
+									<a href="https://www.hyundai.com/worldwide/en/meet-hyundai/motorshow/2018" class="service-submenu__link" target="_blank">Motorshow</a>
+								</li>
+
+							</ul>
+						</li>
+					</ul>
+					<button class="submenu-close"><svg xmlns="http://www.w3.org/2000/svg" class="ic-svg"><use xlink:href="#ic-close-sm"></use></svg></button>
+				</div>
+			</div>
 			<div class="submenu" data-role="service-submenu">
 				<div class="submenu-content">
 					<ul class="service-submenu">

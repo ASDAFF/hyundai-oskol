@@ -2,9 +2,7 @@
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetPageProperty("title", "Hyundai Creta купить у официального дилера. Хендай Крета комплектации и цены");
 $APPLICATION->SetTitle("Creta");
-?>
-
-    <link type="text/css" href="http://www.hyundai.ru/media/css/cars/cars_common.css" rel="stylesheet" />
+?>    <link type="text/css" href="http://www.hyundai.ru/media/css/cars/cars_common.css" rel="stylesheet" />
     <link type="text/css" href="http://www.hyundai.ru/media/css/cars/pip_flat_spritespin.css" rel="stylesheet" />
     <link type="text/css" href="http://www.hyundai.ru/media/css/cars/pip_flat_CR.css" rel="stylesheet" />
     <link rel="stylesheet" href="http://www.hyundai.ru/assets/css/overrides.css?v=3.0">
@@ -60,7 +58,7 @@ $APPLICATION->SetTitle("Creta");
 
             <div class="videoPopup">
                 <div class="videoContainer">
-                    <a class="closeButton" href="#" title="Закрыть">&times;</a>
+                    <a class="closeButton" href="#" title="Закрыть">×</a>
                     <iframe class="videoFrame" width="100%" height="" src="" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
@@ -283,7 +281,7 @@ $APPLICATION->SetTitle("Creta");
                                         <div class="subject">
                                             <h3>Исключительный контроль</h3>
                                             <p>
-                                                6 передач — это лучше, чем пять, особенно если 6-ступенчатая коробка более компактная, легкая, плавная и&nbsp;тихая.
+                                                6 передач — это лучше, чем пять, особенно если 6-ступенчатая коробка более компактная, легкая, плавная и тихая.
                                             </p>
                                         </div>
                                         <div class="image">
@@ -425,8 +423,8 @@ $APPLICATION->SetTitle("Creta");
                             </div>
                             <div class="list_wrap">
                                 <ul class="list">
-                                    <li class="front on"><a href="#"><span class="progress">&nbsp;</span><span class="txt">Вид спереди</span></a></li>
-                                    <li class="rear"><a href="#"><span class="progress">&nbsp;</span><span class="txt">Вид сзади</span></a></li>
+                                    <li class="front on"><a href="#"><span class="progress"> </span><span class="txt">Вид спереди</span></a></li>
+                                    <li class="rear"><a href="#"><span class="progress"> </span><span class="txt">Вид сзади</span></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -873,7 +871,7 @@ $APPLICATION->SetTitle("Creta");
                                             <img src="http://www.hyundai.ru/media/images/flat/CR/elements/convenience_popup_2.jpg" width="940" height="500" alt="Кнопки управления на руле" />
                                             <div class="text">
                                                 <strong>Кнопки управления на руле</strong>
-                                                Регулируйте любые настройки аудиосистемы, не&nbsp;снимая рук от рулевого колеса.
+                                                Регулируйте любые настройки аудиосистемы, не снимая рук от рулевого колеса.
                                             </div>
                                         </li>
                                         <li class="view view3">
@@ -967,12 +965,16 @@ $APPLICATION->SetTitle("Creta");
                         </div>
                         <div class="spec_message">
                             <div>
-                                <span class="add-blue-color" style="padding: 0">*</span>5.0% годовых – процентная ставка в кредитном договоре. Валюта кредита - рубли РФ; уровень первоначального взноса от 30% от стоимости автомобиля. Срок кредита 12-36 месяцев. Программа распространяется на покупку в кредит Hyundai Solaris, Creta (код комплектации CTW52G61GGG013), Elantra, Tucson. Программой предусмотрено страхование жизни и здоровья заемщика. Минимальная сумма кредита – 50 000 руб., максимальная сумма кредита – 6 500 000 руб.. Обязательно подтверждение дохода клиента. Залоговое обеспечение - залог приобретаемого ТС. Обязательно оформление полиса КАСКО на весь срок кредита в страховых компаниях, соответствующих требованиям Банка. Кредит предоставляется ООО «Русфинанс Банк» Генеральная лицензия ЦБ РФ №1792 от 13.02.2013г. Предложение действует с 01.07.18 по 31.07.18, не является офертой. Условия могут быть изменены Банком в одностороннем порядке.
+                                <span class="add-blue-color" style="padding: 0">*</span>
+
+9.9% годовых – процентная ставка в кредитном договоре. Валюта кредита - рубли РФ; уровень первоначального взноса от 30% от стоимости автомобиля. Срок кредита 12-36 месяцев. Программа распространяется на покупку в кредит Hyundai Creta. Программой предусмотрено страхование жизни и здоровья заемщика. Минимальная сумма кредита – 50 000 руб., максимальная сумма кредита – 6 500 000 руб.. Обязательно подтверждение дохода клиента. Залоговое обеспечение - залог приобретаемого ТС. Предложение действительно при подтверждении дохода Заемщика. Обязательно оформление полиса КАСКО на весь срок кредита в страховых компаниях, соответствующих требованиям Банка. Кредит предоставляется ООО «Русфинанс Банк» Генеральная лицензия ЦБ РФ №1792 от 13.02.2013г. Предложение действует с 01.08.18 по 31.08.18, не является офертой. Условия могут быть изменены Банком в одностороннем порядке. 
+
                                 <br>
                             </div>
 
                             <div>
-                                <span class="add-blue-color" style="padding: 0">**</span>Полис КАСКО на безвозмездной основе оформляется на срок 1 (один) год в САО «ВСК» при покупке нового Hyundai Creta (в комплектации CTW52G61GGG013) в кредит по программе СТАРТ. Указанная информация носит справочный характер и не является публичной офертой. Условия и тарифы могут быть изменены САО «ВСК» в одностороннем порядке. Предложение действует до 30.06.2018г.<br>
+
+<br>
                             </div>
                         </div>
                     </div>
@@ -1080,7 +1082,7 @@ $APPLICATION->SetTitle("Creta");
                                                 <td>6АКПП</td>
                                             </tr>
                                             <tr>
-                                                <th>Ускорение 0-100&nbsp;км/ч, сек </th>
+                                                <th>Ускорение 0-100 км/ч, сек </th>
                                                 <td>12.3</td>
                                                 <td>12.9</td>
                                                 <td>12.1</td>
@@ -1104,7 +1106,7 @@ $APPLICATION->SetTitle("Creta");
                                         <div>Расход топлива</div>
                                         <table>
                                             <tr>
-                                                <th>Городской цикл, л/100&nbsp;км*</th>
+                                                <th>Городской цикл, л/100 км*</th>
                                                 <td>9</td>
                                                 <td>9.6</td>
                                                 <td>9.2</td>
@@ -1113,7 +1115,7 @@ $APPLICATION->SetTitle("Creta");
                                                 <td>10.6</td>
                                             </tr>
                                             <tr>
-                                                <th>Загородный цикл, л/100&nbsp;км*</th>
+                                                <th>Загородный цикл, л/100 км*</th>
                                                 <td>5.8</td>
                                                 <td>6.2</td>
                                                 <td>5.9</td>
@@ -1122,7 +1124,7 @@ $APPLICATION->SetTitle("Creta");
                                                 <td>6.5</td>
                                             </tr>
                                             <tr>
-                                                <th>Смешанный цикл, л/100&nbsp;км*</th>
+                                                <th>Смешанный цикл, л/100 км*</th>
                                                 <td>7</td>
                                                 <td>7.4</td>
                                                 <td>7.1</td>
@@ -1131,7 +1133,7 @@ $APPLICATION->SetTitle("Creta");
                                                 <td>8</td>
                                             </tr>
                                             <tr>
-                                                <th>Выделение CO2 в&nbsp;городском&nbsp;цикле, г/км*</th>
+                                                <th>Выделение CO2 в городском цикле, г/км*</th>
                                                 <td>207</td>
                                                 <td>222</td>
                                                 <td>216</td>
@@ -1140,7 +1142,7 @@ $APPLICATION->SetTitle("Creta");
                                                 <td>248</td>
                                             </tr>
                                             <tr>
-                                                <th>Выделение CO2 в&nbsp;загородном&nbsp;цикле, г/км*</th>
+                                                <th>Выделение CO2 в загородном цикле, г/км*</th>
                                                 <td>133</td>
                                                 <td>144</td>
                                                 <td>137</td>
@@ -1149,7 +1151,7 @@ $APPLICATION->SetTitle("Creta");
                                                 <td>153</td>
                                             </tr>
                                             <tr>
-                                                <th>Выделение CO2 в&nbsp;смешанном&nbsp;цикле, г/км*</th>
+                                                <th>Выделение CO2 в смешанном цикле, г/км*</th>
                                                 <td>161</td>
                                                 <td>173</td>
                                                 <td>166</td>
@@ -1172,7 +1174,7 @@ $APPLICATION->SetTitle("Creta");
                                                 <td>2590</td>
                                             </tr>
                                             <tr>
-                                                <th>Минимальный дорожный просвет,&nbsp;мм*</th>
+                                                <th>Минимальный дорожный просвет, мм*</th>
                                                 <td>190</td>
                                                 <td>190</td>
                                                 <td>190</td>
@@ -1244,9 +1246,9 @@ $APPLICATION->SetTitle("Creta");
                         </div>
                         <div class="spec_message">
                             <div>
-                                <span class="add-blue-color">*</span> &mdash; Данные по максимальной мощности двигателя и крутящему моменту приведены согласно Одобрению типа транспортного средства<br>
-                                <span class="add-blue-color">**</span> &mdash; Показатели расхода топлива и массы выделяемого CO2 представлены согласно методике испытаний по Правилам ЕЭК ООН №83 и 101<br>
-                                <span class="add-blue-color">***</span> &mdash; Согласно сертификату соответствия по Директиве ЕС 92/21/EEC представлено значение межосевого дорожного просвета<br>
+                                <span class="add-blue-color">*</span> — Данные по максимальной мощности двигателя и крутящему моменту приведены согласно Одобрению типа транспортного средства<br>
+                                <span class="add-blue-color">**</span> — Показатели расхода топлива и массы выделяемого CO2 представлены согласно методике испытаний по Правилам ЕЭК ООН №83 и 101<br>
+                                <span class="add-blue-color">***</span> — Согласно сертификату соответствия по Директиве ЕС 92/21/EEC представлено значение межосевого дорожного просвета<br>
                             </div>
                         </div>
                     </div>
@@ -1330,35 +1332,35 @@ $APPLICATION->SetTitle("Creta");
                                     <a href="/Tucson/" class="promo-slider-link">
                                         <img src="https://www.hyundai.ru/media/images/carmodels/Tucson_8655a0ed607025b4.png" alt="TUCSON">
                                         <span class="model">TUCSON</span>
-                                        <span class="price">от 1 369 000  &#8381;</span>
+                                        <span class="price">от 1 369 000  ₽</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="/SantaFe/" class="promo-slider-link">
                                         <img src="https://www.hyundai.ru/media/images/carmodels/Santa fe_8385a0ed6004e51b.png" alt="SANTA FE">
                                         <span class="model">SANTA FE</span>
-                                        <span class="price">от 1 964 000  &#8381;</span>
+                                        <span class="price">от 1 964 000  ₽</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="/GrandSantaFe/" class="promo-slider-link">
                                         <img src="https://www.hyundai.ru/media/images/carmodels/Grand Santa fe_2625a0ed5fb73033.png" alt="Grand SANTA FE">
                                         <span class="model">Grand SANTA FE</span>
-                                        <span class="price">от 2 439 000  &#8381;</span>
+                                        <span class="price">от 2 439 000  ₽</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="/H-1/" class="promo-slider-link">
                                         <img src="https://www.hyundai.ru/media/images/carmodels/H-1_3185b17f6c10d2a9.png" alt="H-1">
                                         <span class="model">H-1</span>
-                                        <span class="price">от 2 079 000  &#8381;</span>
+                                        <span class="price">от 2 079 000  ₽</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="/Elantra/" class="promo-slider-link">
                                         <img src="https://www.hyundai.ru/media/images/carmodels/Elantra_7505a0ed5f602de8.png" alt="ELANTRA">
                                         <span class="model">ELANTRA</span>
-                                        <span class="price">от  979 000  &#8381;</span>
+                                        <span class="price">от  979 000  ₽</span>
                                     </a>
                                 </li>
                             </ul>
