@@ -35,6 +35,9 @@
 					<li class="main-nav__item">
 						<a href="/all-offers/" class="main-nav__link">Cпецпредложения</a>
 					</li>
+					<li class="main-nav__item">
+						<a href="/configurator/" class="main-nav__link">Конфигуратор</a>
+					</li>
 					<li class="main-nav__item main-nav__item--has-submenu">
 						<span class="main-nav__link" data-role="n-submenu-link">Бренд</span>
 					</li>
