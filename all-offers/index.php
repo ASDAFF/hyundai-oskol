@@ -96,8 +96,6 @@ $APPLICATION->SetTitle("all-offers");
                 </div>
 -->
 
-
-
                 <div class="insection-offer-unit">
                     <a href="/start/" class="insection-offer-unit__link">
                         <img src="http://www.hyundai.ru/media/offers_image/51e5ce7f6f3744cb2e2496f407f620ba_96dea44c-283a-4015-a949-6914ddcd0455.jpg" alt="" class="insection-offer-unit__back-img">
@@ -192,6 +190,17 @@ $APPLICATION->SetTitle("all-offers");
                         </div>
                     </a>
                 </div> -->
+
+                <div class="insection-offer-unit">
+                    <a href="/promo/product-line-2" class="insection-offer-unit__link">
+                        <img src="http://www.hyundai-oskol.ru/promo/product-line-2/img/product-line.jpg" alt="" class="insection-offer-unit__back-img">
+                        <div class="insection-offer-unit__info">
+                            <span class="name">Второе дыхание
+                            <br>вашего автомобиля.</span>
+                            <span class="addinfo"></span>
+                        </div>
+                    </a>
+                </div>
 
                 <div class="insection-offer-unit">
                     <a href="/promo/santafe_offer/" class="insection-offer-unit__link">
