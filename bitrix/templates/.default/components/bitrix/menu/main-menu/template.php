@@ -206,7 +206,7 @@
 									<a href="/service/manuals" class="service-submenu__link">Руководства и&nbsp;каталоги</a>
 								</li>
 								<li class="service-submenu__item">
-									<a href="/service/service-request" class="service-submenu__link">Запись на&nbsp;сервис</a>
+									<a href="/service-request/" class="service-submenu__link">Запись на&nbsp;сервис</a>
 								</li>
 							</ul>
 						</li>
