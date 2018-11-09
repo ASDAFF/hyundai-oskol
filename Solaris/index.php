@@ -46,6 +46,10 @@ $APPLICATION->SetTitle("Solaris");
         body.mobile .parallax3 {background:url('/media/images/flat/SL/elements/parallax_3.jpg') center top no-repeat #fff;}
         body.mobile .parallax4 {background:url('/media/images/flat/SL/elements/parallax_4.jpg') center top no-repeat #fff;}
         body.mobile .parallax5 {background:url('/media/images/flat/SL/elements/parallax_5.jpg') center top no-repeat #fff;}
+
+        .cubebox .cubelist .items .item .item_wrap .main .title-list {
+            margin-top: 20px;
+        }
     </style>
 
     <div class="wrap" id="wrap">
@@ -102,11 +106,19 @@ $APPLICATION->SetTitle("Solaris");
                                         <img src="/media/images/flat/SL/elements/logo.png" title="Solaris">
                                         <span>Всегда что-то большее</span>
                                     </div>
+                                    <div class="hero-promo">
+                                        <div class="hero-promo-text">
+                                            <img src="https://www.hyundai.ru/media/images/flat/SL2017/elements/h-stick-2.jpg?v=4">
+                                        </div>
+
+                                    </div>
+
                                     <div class="title-price">
                                         <? price_to_url($APPLICATION->GetCurPage()); ?> <br>
                                         <? profit_to_url($APPLICATION->GetCurPage()); ?> <br>
                                         <a href="http://www.hyundai.ru/configurator/?car_id=147" class="title-price-notice">В кредит от 11 857 &#8381; / месяц</a>
                                     </div>
+
                                     <a href="#" class="btn-flat">Все предложения</a>
                                     <div class="title-list">
                                         <ul>

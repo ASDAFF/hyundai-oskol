@@ -92,14 +92,17 @@ $APPLICATION->SetTitle("Tucson");
                                         <div class="blue-block clearfix">
                                             <div class="blue-block-content">
                                                 <div class="blue-block-row">
-                                                    <span class="blue-block-val">6.9%</span>
-                                                    <span class="blue-block-text">кредит<sup>*</sup></span>
+                                                    <span class="blue-block-val">от 10 000 ₽</span>
+                                                    <span class="blue-block-text">в месяц<sup>*</sup></span>
                                                 </div>
-                                                <div class="blue-block-row">
-                                                    <span class="blue-block-text"><b>КАСКО</b> в подарок<sup>**</sup></span>
-                                                </div>
+                                                <!--
+                                                                                    <div class="blue-block-row">
+                                                                                        <span class="blue-block-text"><b>КАСКО</b> в подарок<sup>**</sup></span>
+                                                                                    </div>
+                                                -->
                                             </div>
-                                        </div><br clear="all"/>
+                                        </div>
+                                        <br clear="all"/>
                                         <div class="title-list">
                                             <ul>
                                                 <li>Система полного<br>привода</li>
@@ -1413,52 +1416,45 @@ $APPLICATION->SetTitle("Tucson");
                 </div>
                 <div class="promo-slider_wrap">
                     <div class="promo-slider_cut">
-                        <ul class="promo-slider">
+                        <ul class="promo-slider" style="width: 632px;">
                             <li>
-                                <a href="/SantaFe/" class="promo-slider-link">
-                                    <img src="https://www.hyundai.ru/media/images/carmodels/Santa fe_8385a0ed6004e51b.png" alt="SANTA FE">
+                                <a href="/SantaFe" class="promo-slider-link">
+                                    <img src="https://www.hyundai.ru/media/images/carmodels/SANTA FE_9295b644eb4a3ca7.png" alt="SANTA FE">
                                     <span class="model">SANTA FE</span>
                                     <span class="price">от 1 964 000  ₽</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="/GrandSantaFe/" class="promo-slider-link">
+                                <a href="/GrandSantaFe" class="promo-slider-link">
                                     <img src="https://www.hyundai.ru/media/images/carmodels/Grand Santa fe_2625a0ed5fb73033.png" alt="Grand SANTA FE">
                                     <span class="model">Grand SANTA FE</span>
                                     <span class="price">от 2 439 000  ₽</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="/H-1/" class="promo-slider-link">
+                                <a href="/H-1" class="promo-slider-link">
                                     <img src="https://www.hyundai.ru/media/images/carmodels/H-1_3185b17f6c10d2a9.png" alt="H-1">
                                     <span class="model">H-1</span>
                                     <span class="price">от 2 079 000  ₽</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="/Elantra/" class="promo-slider-link">
+                                <a href="/Elantra" class="promo-slider-link">
                                     <img src="https://www.hyundai.ru/media/images/carmodels/Elantra_7505a0ed5f602de8.png" alt="ELANTRA">
                                     <span class="model">ELANTRA</span>
-                                    <span class="price">от  979 000  ₽</span>
+                                    <span class="price">от  994 000  ₽</span>
                                 </a>
                             </li>
                         </ul>
                     </div>
                 </div>
-            </div>	<div class="disc-block">
-                <p class="dicslamer-casco"><sup>*</sup>
-
-6.9% годовых – процентная ставка в кредитном договоре. Валюта кредита - рубли РФ; уровень первоначального взноса от 30% от стоимости автомобиля. Срок кредита 12-36 месяцев. Программа распространяется на покупку в кредит Hyundai Tucson. Программой предусмотрено страхование жизни и здоровья заемщика. Минимальная сумма кредита – 50 000 руб., максимальная сумма кредита – 6 500 000 руб.. Обязательно подтверждение дохода клиента. Залоговое обеспечение - залог приобретаемого ТС. Обязательно оформление полиса КАСКО на весь срок кредита в страховых компаниях, соответствующих требованиям Банка. Кредит предоставляется ООО «Русфинанс Банк» Генеральная лицензия ЦБ РФ №1792 от 13.02.2013г. Предложение действует с 01.08.18 по 31.08.18, не является офертой. Условия могут быть изменены Банком в одностороннем порядке.
-
-</p>
-                <p class="dicslamer-casco"><sup>**</sup> 
-Полис КАСКО на безвозмездной основе оформляется на срок 1 (один) год в САО «ВСК» при покупке нового Hyundai Santa Fe в кредит по программе СТАРТ. Указанная информация носит справочный характер и не является публичной офертой. Условия и тарифы могут быть изменены САО «ВСК» в одностороннем порядке. Предложение действует до 31.08.2018г.
-
-</p>
+            </div>
+            <div class="disc-block">
+                <p class="dicslamer-casco"><sup>*</sup>Платеж рассчитан в рамках программы Hyundai (Старт) исходя из цены Hyundai Tucson (Primary 2,0л 6MT 2WD) 1 399 000р., 2018 года производства, на условиях кредитного продукта «ДИРЕКТ Баллун ПСП КЛАССИКА: Hyundai в кредит»: первоначальный взнос 711 500р., сумма кредита 778595р., срок кредита 36 мес.; процентная ставка 9.9% годовых. Часть задолженности по кредиту в процентах от стоимости автомобиля на момент его покупки, подлежащая оплате в конце срока кредита - 45%. Кредит погашается равными ежемесячными платежами (за исключением первого и последнего). Обязательно оформление полиса КАСКО на весь срок кредита в страховых компаниях, соответствующих требованиям Банка. Тарифным планом предусмотрена финансовая защита кредита. Кредит предоставляется ООО «Русфинанс Банк» Генеральная лицензия ЦБ РФ №1792 от 13.02.2013 г. (далее - Банк). Кредит обеспечивается залогом приобретаемого автомобиля. Предложение действует с 01.10.18 по 31.10.18г, не является офертой. Условия могут быть изменены Банком в одностороннем порядке. Подробности на www.rusfinancebank.ru</p>
             </div>
         </div>
 
-        <div class="contents_accessories pip" id="contents_accessories"></div>
+
 
         <!--RuTarget-->
         <script type="text/javascript" >
