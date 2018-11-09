@@ -97,20 +97,20 @@ $APPLICATION->SetTitle("all-offers");
 -->
 
                 <div class="insection-offer-unit">
-                    <a href="/start/" class="insection-offer-unit__link">
-                        <img src="http://www.hyundai.ru/media/offers_image/51e5ce7f6f3744cb2e2496f407f620ba_96dea44c-283a-4015-a949-6914ddcd0455.jpg" alt="" class="insection-offer-unit__back-img">
+                    <a href="/start_plus" class="insection-offer-unit__link">
+                        <img src="http://www.hyundai.ru/media/offers_image/2565bfa8d092a3e09bbe2d2beb8c4ffe_start_plus_466x330.jpg" alt="" class="insection-offer-unit__back-img">
                         <div class="insection-offer-unit__info">
-                            <span class="name">Программа Старт.<br>Низкие ежемесячные платежи.</span>
+                            <span class="name">СТАРТ Плюс</span>
                             <span class="addinfo"></span>
                         </div>
                     </a>
                 </div>
 
                 <div class="insection-offer-unit">
-                    <a href="/promo/grand_santa_fe_special_edition/" class="insection-offer-unit__link">
-                        <img src="http://www.hyundai.ru/media/offers_image/2f94f767b5fe67aa50652b8e29c26b52_Grand_Santa_fe_SE_banner_preview.jpg" alt="" class="insection-offer-unit__back-img">
+                    <a href="/start/" class="insection-offer-unit__link">
+                        <img src="http://www.hyundai.ru/media/offers_image/51e5ce7f6f3744cb2e2496f407f620ba_96dea44c-283a-4015-a949-6914ddcd0455.jpg" alt="" class="insection-offer-unit__back-img">
                         <div class="insection-offer-unit__info">
-                            <span class="name">Hyundai grand Santa fe <br>Special Edition</span>
+                            <span class="name">Программа Старт.<br>Низкие ежемесячные платежи.</span>
                             <span class="addinfo"></span>
                         </div>
                     </a>
@@ -192,16 +192,16 @@ $APPLICATION->SetTitle("all-offers");
                 </div> -->
 
                 <div class="insection-offer-unit">
-                    <a href="/promo/product-line-2" class="insection-offer-unit__link">
-                        <img src="http://www.hyundai-oskol.ru/promo/product-line-2/img/product-line.jpg" alt="" class="insection-offer-unit__back-img">
+                    <a href="/pl2/" class="insection-offer-unit__link">
+                        <img src="http://www.hyundai.ru/media/offers_image/2b8987192a392e13d08192bb6520cf4a_pl-2_466x330.jpg" alt="" class="insection-offer-unit__back-img">
                         <div class="insection-offer-unit__info">
-                            <span class="name">Второе дыхание
-                            <br>вашего автомобиля.</span>
+                            <span class="name">Запчасти Product Line 2
+                            <br>Теперь еще дешевле!</span>
                             <span class="addinfo"></span>
                         </div>
                     </a>
                 </div>
-
+<!-- 
                 <div class="insection-offer-unit">
                     <a href="/promo/santafe_offer/" class="insection-offer-unit__link">
                         <img src="http://www.hyundai.ru/media/offers_image/af769b27850993d65279bf07a5090af2_santa-fe_tiser_465_330.jpg" alt="" class="insection-offer-unit__back-img">
@@ -211,16 +211,7 @@ $APPLICATION->SetTitle("all-offers");
                         </div>
                     </a>
                 </div>
-
-                <div class="insection-offer-unit">
-                    <a href="/promo/parts/" class="insection-offer-unit__link">
-                        <img src="/media/offers_image/ed4e-4f2a-92e3-a6a74829070d.jpg" alt="" class="insection-offer-unit__back-img">
-                        <div class="insection-offer-unit__info">
-                            <span class="name">Запчасти Product Line 2<br>Теперь ещё дешевле!</span>
-                            <span class="addinfo"></span>
-                        </div>
-                    </a>
-                </div>
+-->
 
                 <div class="insection-offer-unit">
                     <a href="/service/best/" class="insection-offer-unit__link">
