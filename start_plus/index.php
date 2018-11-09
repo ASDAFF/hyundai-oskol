@@ -1064,7 +1064,7 @@ $APPLICATION->SetTitle("СТАРТ Плюс.");
                     </ul>
                 </div>
                 <div class="faq__dsclmr">
-                    <a href="/ContactUs/" target="_blank" class="faq__button delay8">
+                    <a href="/contacts/" target="_blank" class="faq__button delay8">
                         <div class="faq__icon">
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                  viewBox="0 0 42 44" style="enable-background:new 0 0 42 44;" xml:space="preserve">
