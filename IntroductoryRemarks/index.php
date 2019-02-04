@@ -46,7 +46,7 @@ $APPLICATION->SetTitle("IntroductoryRemarks");
             </div>
             <div class="title_area">
                 <div class="navigation"><ul>
-                        <li><a href="/">Home</a> &gt;</li>
+                        <li><a href="/">Главная</a> &gt;</li>
                         <li><span>Социальная ответственность</span> &gt;</li><li>Вступительное слово</li></ul></div><h1 class="title">Вступительное слово</h1></div><div class="content_area"><script type="text/javascript" src="/media/js/wcm.consumption.js"></script>
 
                 <script language="javascript">

@@ -85,16 +85,19 @@ $APPLICATION->SetTitle("Tucson");
                                         </div>
                                         <div class="title-price">
                                             от 1 369 000  ₽<br>
-                                            <a href="/start?model=tucson" class="title-price-notice">В кредит от 10 000 ₽ / месяц</a>
+                                            <a href="/start?model=tucson" class="title-price-notice"><!--В кредит от 10 000 ₽ / месяц--></a>
                                             <!-- 								<div class="title-price-casco">+ каско в подарок!<sup>1</sup></div> -->
                                         </div>
                                         <!--                             <a href="/all-offers/tucson" class="btn-flat">Все предложения</a> -->
+
                                         <div class="blue-block clearfix">
                                             <div class="blue-block-content">
+
                                                 <div class="blue-block-row">
-                                                    <span class="blue-block-val">от 10 000 ₽</span>
-                                                    <span class="blue-block-text">в месяц<sup>*</sup></span>
+                                                    <span class="blue-block-val">В кредит от 10 000 ₽</span>
+                                                    <span class="blue-block-text">в месяц<sup></sup></span>
                                                 </div>
+
                                                 <!--
                                                                                     <div class="blue-block-row">
                                                                                         <span class="blue-block-text"><b>КАСКО</b> в подарок<sup>**</sup></span>
@@ -102,6 +105,7 @@ $APPLICATION->SetTitle("Tucson");
                                                 -->
                                             </div>
                                         </div>
+
                                         <br clear="all"/>
                                         <div class="title-list">
                                             <ul>
@@ -1417,6 +1421,7 @@ $APPLICATION->SetTitle("Tucson");
                 <div class="promo-slider_wrap">
                     <div class="promo-slider_cut">
                         <ul class="promo-slider" style="width: 632px;">
+<!--
                             <li>
                                 <a href="/SantaFe" class="promo-slider-link">
                                     <img src="https://www.hyundai.ru/media/images/carmodels/SANTA FE_9295b644eb4a3ca7.png" alt="SANTA FE">
@@ -1431,27 +1436,30 @@ $APPLICATION->SetTitle("Tucson");
                                     <span class="price">от 2 439 000  ₽</span>
                                 </a>
                             </li>
+-->
                             <li>
                                 <a href="/H-1" class="promo-slider-link">
                                     <img src="https://www.hyundai.ru/media/images/carmodels/H-1_3185b17f6c10d2a9.png" alt="H-1">
                                     <span class="model">H-1</span>
-                                    <span class="price">от 2 079 000  ₽</span>
+                                    <span class="price">от 2 121 000  ₽</span>
                                 </a>
                             </li>
                             <li>
                                 <a href="/Elantra" class="promo-slider-link">
                                     <img src="https://www.hyundai.ru/media/images/carmodels/Elantra_7505a0ed5f602de8.png" alt="ELANTRA">
                                     <span class="model">ELANTRA</span>
-                                    <span class="price">от  994 000  ₽</span>
+                                    <span class="price">от 1 019 000  ₽</span>
                                 </a>
                             </li>
                         </ul>
                     </div>
                 </div>
             </div>
+<!--
             <div class="disc-block">
                 <p class="dicslamer-casco"><sup>*</sup>Платеж рассчитан в рамках программы Hyundai (Старт) исходя из цены Hyundai Tucson (Primary 2,0л 6MT 2WD) 1 399 000р., 2018 года производства, на условиях кредитного продукта «ДИРЕКТ Баллун ПСП КЛАССИКА: Hyundai в кредит»: первоначальный взнос 711 500р., сумма кредита 778595р., срок кредита 36 мес.; процентная ставка 9.9% годовых. Часть задолженности по кредиту в процентах от стоимости автомобиля на момент его покупки, подлежащая оплате в конце срока кредита - 45%. Кредит погашается равными ежемесячными платежами (за исключением первого и последнего). Обязательно оформление полиса КАСКО на весь срок кредита в страховых компаниях, соответствующих требованиям Банка. Тарифным планом предусмотрена финансовая защита кредита. Кредит предоставляется ООО «Русфинанс Банк» Генеральная лицензия ЦБ РФ №1792 от 13.02.2013 г. (далее - Банк). Кредит обеспечивается залогом приобретаемого автомобиля. Предложение действует с 01.10.18 по 31.10.18г, не является офертой. Условия могут быть изменены Банком в одностороннем порядке. Подробности на www.rusfinancebank.ru</p>
             </div>
+-->
         </div>
 
 

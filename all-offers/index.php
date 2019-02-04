@@ -171,7 +171,7 @@ $APPLICATION->SetTitle("all-offers");
 
             <div class="offers_divider__content__offers-grid-section clearfix">
 
-<div class="insection-offer-unit">
+<!--                 <div class="insection-offer-unit">
 							<a href="/promo/autumn" class="insection-offer-unit__link">
 								<img src="http://www.hyundai.ru/media/offers_image/766be949ba7a5f92fc74d6e23aca1ed7_Hyundai_Shell_aug_1500x545.jpg" alt="" class="insection-offer-unit__back-img">
 								<div class="insection-offer-unit__info">
@@ -180,6 +180,7 @@ $APPLICATION->SetTitle("all-offers");
 								</div>
 							</a>
 						</div>
+ -->
 
 <!--                 <div class="insection-offer-unit">
                     <a href="/promo/shell" class="insection-offer-unit__link">

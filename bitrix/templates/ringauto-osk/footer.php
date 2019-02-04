@@ -103,7 +103,7 @@ if(!empty($ar['IMG_SLIDE']) and $APPLICATION->GetCurPage() != '/'){
             </nav>
             <div class="footer-primary__includes">
                 <div class="footer-primary__includes-cont">
-                    <img src="http://www.hyundai.ru/assets/img/home/fifa-partner.png" class="fifa-partner-image" alt="" />
+                    <img src="https://www.hyundai.ru/assets/img/home/combologo.png" class="fifa-partner-image" alt="" />
                 </div>
             </div>	</div>	<div class="footer-primary__main">
             <div class="footer-global-navigation">

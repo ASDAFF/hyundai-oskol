@@ -99,7 +99,7 @@ $APPLICATION->SetTitle("H-1");
 								<span>Раскройте свои возможности</span>
 							</div>
                             <div class="title-price">
-								от 2 079 000  &#8381;
+								от 2 121 000  &#8381;
 								<a href="/configurator/car/16#calculator" class="title-price-notice">В кредит от 31 255 &#8381; / месяц</a>
 							</div>
                             <a href="/hpromise/" class="btn-flat">Все предложения</a>
@@ -1147,14 +1147,14 @@ $APPLICATION->SetTitle("H-1");
 				<a href="/Elantra" class="promo-slider-link">
 					<img src="https://www.hyundai.ru/media/images/carmodels/Elantra_7505a0ed5f602de8.png" alt="ELANTRA">
 					<span class="model">ELANTRA</span>
-					<span class="price">от  979 000  &#8381;</span>
+					<span class="price">от  1 019 000  &#8381;</span>
 				</a>
 			</li>
                                 				<li>
 				<a href="/Creta" class="promo-slider-link">
 					<img src="https://www.hyundai.ru/media/images/carmodels/Creta_6495a0ed61140503.png" alt="CRETA">
 					<span class="model">CRETA</span>
-					<span class="price">от  819 900  &#8381;</span>
+					<span class="price">от  947 900  &#8381;</span>
 				</a>
 			</li>
                                 				<li>
@@ -1164,7 +1164,7 @@ $APPLICATION->SetTitle("H-1");
 					<span class="price">от 1 369 000  &#8381;</span>
 				</a>
 			</li>
-                                				<li>
+<!--                                				<li>
 				<a href="/SantaFe" class="promo-slider-link">
 					<img src="https://www.hyundai.ru/media/images/carmodels/Santa fe_8385a0ed6004e51b.png" alt="SANTA FE">
 					<span class="model">SANTA FE</span>
@@ -1178,6 +1178,7 @@ $APPLICATION->SetTitle("H-1");
 					<span class="price">от 2 439 000  &#8381;</span>
 				</a>
 			</li>
+-->
             		</ul>
 	</div>
 	</div>
