@@ -27,6 +27,18 @@ $APPLICATION->SetTitle("Руководства, каталоги и буклет
                     <div class="car-slider_wrap">
                         <div class="car-slider_cut">
                             <ul class="car-slider">
+                                <li data-model="NewSantaFe">
+                                    <div class="image-wrap">
+                                        <img src="https://www.hyundai.ru/media/images/carmodels/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20SANTA%20FE5645b686466141fd.png" alt="" style="max-width: 100%;">
+                                    </div>
+                                    <span class="model">Новый SANTA FE</span>
+                                </li>
+                                <li data-model="NewTucson">
+                                    <div class="image-wrap">
+                                        <img src="https://www.hyundai.ru/media/images/carmodels/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20TUCSON5825b7ec65f6eefb.png" alt="" style="max-width: 100%;">
+                                    </div>
+                                    <span class="model">Новый TUCSON</span>
+                                </li>
 
                                 <li data-model="solaris_new">
                                     <div class="image-wrap">
@@ -135,6 +147,26 @@ $APPLICATION->SetTitle("Руководства, каталоги и буклет
 
                 <div class="content-inner">
                     <div class="content-inner-title">Доступные материалы</div>
+                    <div class="avaible-documents" data-model="NewSantaFe">
+                        <div class="avaible-documents-list grid">
+                            <div class="avaible-document-wrap grid-el grid-el-33">
+                                <a target="_blank" href="http://www.hyundai.ru/media/downloads/pdf/Santa_Fe_TM.pdf" class="avaible-document avaible-document--manual">
+                                    <div class="avaible-document-title">руководство по&nbsp;эксплуатации</div>
+                                    <div class="avaible-document-model">Новый SANTA FE</div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="avaible-documents" data-model="NewTucson">
+                        <div class="avaible-documents-list grid">
+                            <div class="avaible-document-wrap grid-el grid-el-33">
+                                <a target="_blank" href="http://www.hyundai.ru/media/downloads/pdf/Tucson_TLe.pdf" class="avaible-document avaible-document--manual">
+                                    <div class="avaible-document-title">руководство по&nbsp;эксплуатации</div>
+                                    <div class="avaible-document-model">Новый TUCSON</div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                     <div class="avaible-documents" data-model="solaris_new">
                         <div class="avaible-documents-list grid">
                             <div class="avaible-document-wrap grid-el grid-el-33">
