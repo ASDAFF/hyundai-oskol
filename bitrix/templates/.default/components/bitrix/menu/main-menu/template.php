@@ -217,6 +217,9 @@
 							<strong class="service-submenu__cat-title">Запасные части и&nbsp;аксессуары</strong>
 							<ul class="service-submenu__cat-items">
 								<li class="service-submenu__item">
+									<a href="https://www.hyundai.ru/brand-collection" class="service-submenu__link" target="_blank">Бренд-коллекция</a>
+								</li>
+								<li class="service-submenu__item">
 									<a href="/service/parts" class="service-submenu__link">Оригинальные запасные части</a>
 								</li>
 								<li class="service-submenu__item">
