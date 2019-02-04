@@ -311,7 +311,7 @@ $APPLICATION->SetTitle("Обслуживание");
             _rutarget.push({'event': 'otherPage'});
         </script>
 
-        <div class="zing_form_wrp" id="maintenance_form">
+        <div class="zing_form_wrp" id="maintenance_form" style="height: 100%">
             <form class="maintenance_form" action="#">
                 <div class="zing_form_content">
                     <a class="closePopup  zing_close" href="javascript:;"></a>
