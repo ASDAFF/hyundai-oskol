@@ -99,7 +99,7 @@ $(document).ready(function() {
 				case 23: return 46; // New Solaris
 				case 24: return 51; // Sonata
 				case 26: return 51; // Tucson
-				case 25: return 53; // Santa Fe
+				case 25: return 54; // Santa Fe
 			}
 
 			return 35;
