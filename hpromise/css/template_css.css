@@ -487,14 +487,16 @@ header {
 
 .main .carslider-inner-single-img {
   top: 218px;
-  left: 585px;
+  left: 675px;
   z-index: 15;
 }
 
 .main .carslider-inner-single-img img {
   width: 420px;
 }
-
+.carslider-inner-single-desc-tit a {
+  color: #000;
+}
 .prev .carslider-inner-single-img {
   left: 0px;
   z-index: 15;
@@ -753,7 +755,6 @@ footer {
   height: 99px;
   background-color: #b0a498;
   text-align: left;
-  margin: 79px 0 0 0;
 }
 
 .main footer {
