@@ -14,6 +14,9 @@ $APPLICATION->SetTitle("Кроссоверы Hyundai. С тобой заодно
         #wrapper {
             background: #f5f5f5 !important;
         }
+        hr{
+            display: block;
+        }
     </style>
 
     <script type="text/javascript">
