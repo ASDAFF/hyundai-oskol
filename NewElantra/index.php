@@ -240,14 +240,11 @@ $APPLICATION->SetTitle("Выберите свою ELANTRA");
                 </li>
             </ul>
             <div class="nav__buttons">
-                <a target="_blank" href="#" class="df-button nav__buton js-p-td-open">
+                <a target="_blank" href="/test-drive/" class="df-button nav__buton">
                     Тест-драйв
                 </a>
                 <a target="_blank" href="/configurator/car/27" class="df-button nav__buton">
                     Конфигуратор
-                </a>
-                <a target="_blank" href="/contacts/" class="df-button nav__buton">
-                    Найти дилера
                 </a>
             </div>
         </section>
@@ -923,13 +920,7 @@ $APPLICATION->SetTitle("Выберите свою ELANTRA");
                             <span class="highlight-nav__highspot">Ваш автомобиль в&nbsp;один клик</span>
                         </a>
                     </li>
-                    <li class="highlight-nav__item">
-                        <a href="/contacts/" class="highlight-nav__link">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="highlight-nav__icon ic-svg ic-map"><use xlink:href="#ic-map"></use></svg>
-                            <strong class="highlight-nav__name">Найти дилера</strong>
-                            <span class="highlight-nav__highspot">186 официальных дилерских центров по всей России</span>
-                        </a>
-                    </li>
+
                     <li class="highlight-nav__item">
                         <a href="/test-drive/NewElantra" class="highlight-nav__link">
                             <svg xmlns="http://www.w3.org/2000/svg" class="highlight-nav__icon ic-svg ic-steering-wheel"><use xlink:href="#ic-steering-wheel"></use></svg>
@@ -1185,7 +1176,7 @@ $APPLICATION->SetTitle("Выберите свою ELANTRA");
     <script type="text/javascript" src="https://www.hyundai.ru/media/js/libs/spritespin.js"></script>
     <script type="text/javascript" src="https://www.hyundai.ru/media/js/libs/jquery.lazyload.min.js"></script>
     <script type="text/javascript" src="https://www.hyundai.ru/media/js/cars/sc_gt_default.js"></script>
-    <script type="text/javascript" src="https://www.hyundai.ru/assets/js/common.js"></script>
+
     <script type="text/javascript" src="https://www.hyundai.ru/assets/libs/polyfill/promise.js"></script>
     <script type="text/javascript" src="https://www.hyundai.ru/assets/libs/axios/axios.js"></script>
     <script type="text/javascript" src="https://www.hyundai.ru/assets/libs/spritespin/spritespin.min.js"></script>
