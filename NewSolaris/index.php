@@ -431,8 +431,11 @@ $APPLICATION->SetTitle("NewSolaris");
                                                 <? profit_to_url($APPLICATION->GetCurPage()); ?> <br>
                                             </div>
                                             <div class="hero-promo" style="margin-bottom: 10px">
-                                                <div class="hero-promo-text">
+                                                <div class="hero-promo-text" style="background-color: #1f3662;max-width: 300px">
                                                     <img src="https://www.hyundai.ru/media/images/flat/SL2017/elements/h-stick-2.jpg?v=4">
+                                                    <div class="blue-block-row" style="border-top: 1px solid #fff; font-family: HyundaiSansHead; margin-left: 24px; margin-right: 12px; padding: 10px 0px;">
+                                                        <a href="/promo/new_owners" class="blue-block-text" style="color:white;font-size: 22px; line-height: 30px; font-weight: 700; opacity: 0.95;">Выгода 10% <img src="https://www.hyundai.ru/assets/img/arrow_banner.png" style="vertical-align: sub; margin-left: 5px;"></a>
+                                                    </div>
                                                 </div>
 
                                             </div>
