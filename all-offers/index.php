@@ -95,6 +95,15 @@ $APPLICATION->SetTitle("all-offers");
                     </a>
                 </div>
 -->
+                <div class="insection-offer-unit">
+                    <a href="https://www.hyundai.ru/promo/vdnh" class="insection-offer-unit__link">
+                        <img src="http://www.hyundai.ru/media/offers_image/f19ce211c4adc6df11f26f9574329dd5_Banner_Katok_v2_mob_466x330.png" alt="" class="insection-offer-unit__back-img">
+                        <div class="insection-offer-unit__info">
+                            <span class="name">Зима на драйве</span>
+                            <span class="addinfo"></span>
+                        </div>
+                    </a>
+                </div>
 
                 <div class="insection-offer-unit">
                     <a href="/start_plus" class="insection-offer-unit__link">
@@ -125,6 +134,7 @@ $APPLICATION->SetTitle("all-offers");
                         </div>
                     </a>
                 </div>
+<!--
 
                 <div class="insection-offer-unit">
                     <a href="/promo/major-leasing/" class="insection-offer-unit__link">
@@ -136,7 +146,6 @@ $APPLICATION->SetTitle("all-offers");
                     </a>
                 </div>
 
-<!--
                 <div class="insection-offer-unit">
                     <a href="/promo/leasing_new/" class="insection-offer-unit__link">
                         <img src="http://www.hyundai.ru/media/offers_image/822f208ac03003ca995030c04d001055_%D0%9B%D0%B8%D0%B7%D0%B8%D0%BD%D0%B3-%D0%B4%D0%BB%D1%8F-%D1%84%D0%B8%D0%B7-%D0%BB%D0%B8%D1%86_%D1%81%D0%BF%D0%B5%D1%86-%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_preview.jpg" alt="" class="insection-offer-unit__back-img">
@@ -191,6 +200,16 @@ $APPLICATION->SetTitle("all-offers");
                         </div>
                     </a>
                 </div> -->
+
+                <div class="insection-offer-unit">
+                    <a href="/promo/shell" class="insection-offer-unit__link">
+                        <img src="http://www.hyundai.ru/media/offers_image/6ebc6ed21af371078e33b6d1aca29d87_banner_solaris.jpg" alt="" class="insection-offer-unit__back-img">
+                        <div class="insection-offer-unit__info">
+                            <span class="name">Новые рекорды с сервисом Hyundai</span>
+                            <span class="addinfo"></span>
+                        </div>
+                    </a>
+                </div>
 
                 <div class="insection-offer-unit">
                     <a href="/pl2/" class="insection-offer-unit__link">
