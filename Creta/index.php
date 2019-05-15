@@ -1325,13 +1325,7 @@ $APPLICATION->SetTitle("Creta");
                     <div class="promo-slider_wrap">
                         <div class="promo-slider_cut">
                             <ul class="promo-slider" style="width: 790px;">
-                                <li>
-                                    <a href="/Tucson" class="promo-slider-link">
-                                        <img src="https://www.hyundai.ru/media/images/carmodels/Tucson_8655a0ed607025b4.png" alt="TUCSON">
-                                        <span class="model">TUCSON</span>
-                                        <span class="price">от 1 369 000  ₽</span>
-                                    </a>
-                                </li>
+
 <!--
                                 <li>
                                     <a href="/SantaFe" class="promo-slider-link">
@@ -1352,14 +1346,14 @@ $APPLICATION->SetTitle("Creta");
                                     <a href="/H-1" class="promo-slider-link">
                                         <img src="https://www.hyundai.ru/media/images/carmodels/H-1_3185b17f6c10d2a9.png" alt="H-1">
                                         <span class="model">H-1</span>
-                                        <span class="price">от 2 212 000  ₽</span>
+                                        <span class="price">от 2 129 000  ₽</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="/Elantra" class="promo-slider-link">
                                         <img src="https://www.hyundai.ru/media/images/carmodels/Elantra_7505a0ed5f602de8.png" alt="ELANTRA">
                                         <span class="model">ELANTRA</span>
-                                        <span class="price">от  1 019 000  ₽</span>
+                                        <span class="price">от  1 029 000  ₽</span>
                                     </a>
                                 </li>
                             </ul>

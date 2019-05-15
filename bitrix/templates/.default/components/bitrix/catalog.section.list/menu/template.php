@@ -49,7 +49,7 @@ $arSectionDeleteParams = array("CONFIRM" => GetMessage('CT_BCSL_ELEMENT_DELETE_C
 
 <ul class="showroom">
 
-    <? foreach ($arResult['SECTIONS'] as &$arSection): ?>
+    <? foreach ($arResult['SECTIONS'] as $rows => &$arSection): ?>
     <li class="showroom__cat" role="menuitem">
         <div class="showroom__cat-title"><?=$arSection['NAME']?></div>
         <div class="showroom__cat-items">
@@ -61,7 +61,7 @@ $arSectionDeleteParams = array("CONFIRM" => GetMessage('CT_BCSL_ELEMENT_DELETE_C
             $arFields = $ob->GetFields();
             ?>
             <!--showroom__cat-item--promo-->
-            <a href="/<?=$arFields['CODE']?>" class="showroom__cat-item <?if($arFields['PROPERTY_PROMO_VALUE']):?>showroom__cat-item--promo<?endif;?>" title="<?=$arFields['NAME']?>">
+            <a href="<?=$arFields['CODE']?>" class="showroom__cat-item <?if($arFields['PROPERTY_PROMO_VALUE']):?>showroom__cat-item--promo<?endif;?>" title="<?=$arFields['NAME']?>">
                 <span class="showroom__cat-item-name"><?=$arFields['NAME']?></span>
                 <span class="showroom__cat-item-price"><?=$arFields['PROPERTY_NAME_ENG_VALUE']?></span>
                 <span class="showroom__cat-item-price"><?=str_replace(array('руб.','руб'),'₽',$arFields['PROPERTY_PRICE_VALUE'])?></span>
@@ -72,6 +72,13 @@ $arSectionDeleteParams = array("CONFIRM" => GetMessage('CT_BCSL_ELEMENT_DELETE_C
                         <img src="/assets/img/logocrashtest.svg">
                     </div>
                 <?endif;?>
+				<? if($rows == 4):?>
+				<span class="showroom__cat-item-name" style="color: #103a71;">
+					<br>
+					Выбрать модель&nbsp;
+					<svg xmlns="http://www.w3.org/2000/svg" class="ic-svg ic-arrow-s"><use xlink:href="#ic-arrow-s"></use></svg>
+				</span>
+				<? endif; ?>
             </a>
 
             <? endwhile; ?>

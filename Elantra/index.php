@@ -1075,19 +1075,13 @@ $APPLICATION->SetTitle("Elantra");
                     <div class="promo-slider_wrap">
                         <div class="promo-slider_cut">
                             <ul class="promo-slider">
-                                <li>
-                                    <a href="/Tucson/" class="promo-slider-link">
-                                        <img src="https://www.hyundai.ru/media/images/carmodels/Tucson_8655a0ed607025b4.png" alt="TUCSON">
-                                        <span class="model">TUCSON</span>
-                                        <span class="price">от 1 369 000  ₽</span>
-                                    </a>
-                                </li>
+
 
                                 <li>
                                     <a href="/H-1/" class="promo-slider-link">
                                         <img src="https://www.hyundai.ru/media/images/carmodels/H-1_3185b17f6c10d2a9.png" alt="H-1">
                                         <span class="model">H-1</span>
-                                        <span class="price">от 2 121 000  ₽</span>
+                                        <span class="price">от 2 129 000  ₽</span>
                                     </a>
                                 </li>
                             </ul>

@@ -8,7 +8,56 @@ $APPLICATION->SetTitle("all-offers");
             <h1 class="offers_divider__content__title">Акции</h1>
 
             <!-- just offers ok let's go -->
+			
+		
+			
+			
+			
+			
+			
+			
             <div class="offers_divider__content__offers-grid-section clearfix">
+		
+<div class="insection-offer-unit">
+							<a href="/promo/robocar" class="insection-offer-unit__link">
+								<img src="https://www.hyundai.ru/media/offers_image/990505a1af48139c9892c4f3e7e5c62f_465%D1%85330.jpg" alt="" class="insection-offer-unit__back-img">
+								<div class="insection-offer-unit__info">
+									<span class="name">Подарок от Робокара Поли в официальной<br>дилерской сети Hyunday!</span>
+	 								<span class="addinfo"></span>
+								</div>
+							</a>
+						</div>
+			
+			<div class="insection-offer-unit">
+							<a href="/promo/trade-in_offer" class="insection-offer-unit__link">
+								<img src="https://www.hyundai.ru/media/offers_image/58754491c057742653047046093d240c_Santa_fe+Tucson_preview-banner_1900x530px_Apr2019.jpg" alt="" class="insection-offer-unit__back-img">
+								<div class="insection-offer-unit__info">
+									<span class="name">Выгода на Hyundai SANTA FE и TUCSON 2018 модельного года.</span>
+	 								<span class="addinfo"></span>
+								</div>
+							</a>
+						</div>
+			<div class="insection-offer-unit">
+							<a href="/promo/cska_sponsorship" class="insection-offer-unit__link">
+								<img src="https://www.hyundai.ru/media/offers_image/26022aa0bc9776da777fddd9442846c8_CSKA_preview.jpg" alt="" class="insection-offer-unit__back-img">
+								<div class="insection-offer-unit__info">
+									<span class="name">Спонсорское соглашение Hyundai x ПФК ЦСКА.</span>
+	 								<span class="addinfo"></span>
+								</div>
+							</a>
+						</div>
+			
+			
+			
+<!--<div class="insection-offer-unit">
+							<a href="/promo/new_elantra_launch" class="insection-offer-unit__link">
+								<img src="http://www.hyundai.ru/media/offers_image/b64d447758346c904fa17b1a2dc6987e_New_elantra_launch_preview.jpg" alt="" class="insection-offer-unit__back-img">
+								<div class="insection-offer-unit__info">
+									<span class="name">Новая ELANTRA.<br>Попади на вечеринку!</span>
+	 								<span class="addinfo"></span>
+								</div>
+							</a>
+						</div>-->
                 <?
                 if(CModule::IncludeModule("iblock")) {
                     $arSelect = Array("ID", "IBLOCK_ID", "NAME", "DETAIL_PICTURE", "CODE", "PROPERTY_ENABLE_SPEC");
@@ -63,7 +112,6 @@ $APPLICATION->SetTitle("all-offers");
                 }
                 ?>
 
-
 <!--
                 <div class="insection-offer-unit">
                     <a href="http://hyundai-ringauto.ru/promo/santa-fe-offer/" class="insection-offer-unit__link">
@@ -95,7 +143,7 @@ $APPLICATION->SetTitle("all-offers");
                     </a>
                 </div>
 -->
-                <div class="insection-offer-unit">
+               <!-- <div class="insection-offer-unit">
                     <a href="https://www.hyundai.ru/promo/vdnh" class="insection-offer-unit__link">
                         <img src="http://www.hyundai.ru/media/offers_image/f19ce211c4adc6df11f26f9574329dd5_Banner_Katok_v2_mob_466x330.png" alt="" class="insection-offer-unit__back-img">
                         <div class="insection-offer-unit__info">
@@ -103,7 +151,7 @@ $APPLICATION->SetTitle("all-offers");
                             <span class="addinfo"></span>
                         </div>
                     </a>
-                </div>
+                </div>-->
 
                 <div class="insection-offer-unit">
                     <a href="/start_plus" class="insection-offer-unit__link">

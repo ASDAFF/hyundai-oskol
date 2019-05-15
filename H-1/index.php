@@ -99,7 +99,7 @@ $APPLICATION->SetTitle("H-1");
 								<span>Раскройте свои возможности</span>
 							</div>
                             <div class="title-price">
-								от 2 121 000  &#8381;
+								от 2 129 000  &#8381;
 								<a href="/configurator/car/16#calculator" class="title-price-notice">В кредит от 31 255 &#8381; / месяц</a>
 							</div>
                             <a href="/hpromise/" class="btn-flat">Все предложения</a>
@@ -1155,13 +1155,6 @@ $APPLICATION->SetTitle("H-1");
 					<img src="https://www.hyundai.ru/media/images/carmodels/Creta_6495a0ed61140503.png" alt="CRETA">
 					<span class="model">CRETA</span>
 					<span class="price">от  947 900  &#8381;</span>
-				</a>
-			</li>
-                                				<li>
-				<a href="/Tucson" class="promo-slider-link">
-					<img src="https://www.hyundai.ru/media/images/carmodels/Tucson_8655a0ed607025b4.png" alt="TUCSON">
-					<span class="model">TUCSON</span>
-					<span class="price">от 1 369 000  &#8381;</span>
 				</a>
 			</li>
 <!--                                				<li>
