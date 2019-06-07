@@ -101,11 +101,11 @@ if(!empty($ar['IMG_SLIDE']) and $APPLICATION->GetCurPage() != '/'){
                     </li>
                 </ul>
             </nav>
-            <div class="footer-primary__includes">
+            <!--<div class="footer-primary__includes">
                 <div class="footer-primary__includes-cont">
                     <img src="https://www.hyundai.ru/assets/img/home/combologo.png" class="fifa-partner-image" alt="" />
                 </div>
-            </div>	</div>	<div class="footer-primary__main">
+            </div>-->	</div>	<div class="footer-primary__main">
             <div class="footer-global-navigation">
 
                 <nav class="footer-global-navigation__cust-nav" role="navigation">
@@ -930,7 +930,8 @@ if(!empty($ar['IMG_SLIDE']) and $APPLICATION->GetCurPage() != '/'){
 <noscript><div><img src="https://mc.yandex.ru/watch/49717669" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-
+<!-- По запросу клиента от 06.06.2019 -->
+<script id="wJumpToCars" src="https://cars.hyundai-oskol.ru/widgets/jumpToCars.js"></script>
 
 
 <div class="svg-root" style="position: absolute; width: 0; height: 0; visibility: hidden;">

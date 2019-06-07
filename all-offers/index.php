@@ -17,18 +17,17 @@ $APPLICATION->SetTitle("all-offers");
 			
 			
             <div class="offers_divider__content__offers-grid-section clearfix">
-		
-<div class="insection-offer-unit">
-							<a href="/promo/robocar" class="insection-offer-unit__link">
-								<img src="https://www.hyundai.ru/media/offers_image/990505a1af48139c9892c4f3e7e5c62f_465%D1%85330.jpg" alt="" class="insection-offer-unit__back-img">
-								<div class="insection-offer-unit__info">
-									<span class="name">Подарок от Робокара Поли в официальной<br>дилерской сети Hyunday!</span>
-	 								<span class="addinfo"></span>
-								</div>
-							</a>
-						</div>
-			
-			<div class="insection-offer-unit">
+		 <div class="insection-offer-unit">
+                    <a href="/start/" class="insection-offer-unit__link">
+                        <img src="https://www.hyundai.ru/media/offers_image/609ef8839c9e9834efa0e2ac95efadf2_start_new.jpg" alt="" class="insection-offer-unit__back-img">
+                        <div class="insection-offer-unit__info">
+                            <span class="name">Финансовая программа Старт.<br>Гибкие уловия, взнос от 0%</span>
+                            <span class="addinfo"></span>
+                        </div>
+                    </a>
+                </div>
+				
+					<div class="insection-offer-unit">
 							<a href="/promo/trade-in_offer" class="insection-offer-unit__link">
 								<img src="https://www.hyundai.ru/media/offers_image/58754491c057742653047046093d240c_Santa_fe+Tucson_preview-banner_1900x530px_Apr2019.jpg" alt="" class="insection-offer-unit__back-img">
 								<div class="insection-offer-unit__info">
@@ -37,11 +36,15 @@ $APPLICATION->SetTitle("all-offers");
 								</div>
 							</a>
 						</div>
+				
+
+			
+		
 			<div class="insection-offer-unit">
 							<a href="/promo/cska_sponsorship" class="insection-offer-unit__link">
-								<img src="https://www.hyundai.ru/media/offers_image/26022aa0bc9776da777fddd9442846c8_CSKA_preview.jpg" alt="" class="insection-offer-unit__back-img">
+								<img src="http://hyundai-oskol.ru/media/offers_image/173ebfbe7978e691bcadcbb5e_CSKA_new_preview.jpg" alt="" class="insection-offer-unit__back-img">
 								<div class="insection-offer-unit__info">
-									<span class="name">Спонсорское соглашение Hyundai x ПФК ЦСКА.</span>
+									<span class="name">Спонсорское соглашение Hyundai и ПФК ЦСКА.</span>
 	 								<span class="addinfo"></span>
 								</div>
 							</a>
@@ -163,15 +166,7 @@ $APPLICATION->SetTitle("all-offers");
                     </a>
                 </div>
 
-                <div class="insection-offer-unit">
-                    <a href="/start/" class="insection-offer-unit__link">
-                        <img src="http://www.hyundai.ru/media/offers_image/51e5ce7f6f3744cb2e2496f407f620ba_96dea44c-283a-4015-a949-6914ddcd0455.jpg" alt="" class="insection-offer-unit__back-img">
-                        <div class="insection-offer-unit__info">
-                            <span class="name">Программа Старт.<br>Низкие ежемесячные платежи.</span>
-                            <span class="addinfo"></span>
-                        </div>
-                    </a>
-                </div>
+               
 
                 <div class="insection-offer-unit">
                     <a href="/special-offer/" class="insection-offer-unit__link">
@@ -215,7 +210,21 @@ $APPLICATION->SetTitle("all-offers");
                         </div>
                     </a>
                 </div>
+				
+					<div class="insection-offer-unit">
+							<a href="/promo/robocar" class="insection-offer-unit__link">
+								<img src="https://www.hyundai.ru/media/offers_image/990505a1af48139c9892c4f3e7e5c62f_465%D1%85330.jpg" alt="" class="insection-offer-unit__back-img">
+								<div class="insection-offer-unit__info">
+									<span class="name">Подарок от Робокара Поли в официальной<br>дилерской сети Hyunday!</span>
+	 								<span class="addinfo"></span>
+								</div>
+							</a>
+						</div>
+			
+				
             </div>
+		
+			
             <!-- service stuff next -->
             <!-- not fully offers -->
 
